@@ -1,0 +1,17 @@
+Neon Vortex was intended to be a **full-motion video (FMV) light gun shooter**, heavily inspired by games like *Sega Virtua Cop* and *Time Crisis*. 
+
+Here's a breakdown of what we know:
+
+*   **FMV:** The entire game was filmed with live actors and pre-rendered environments.
+*   **Light Gun:** It was designed to be played with a light gun peripheral (though it never officially released with one).
+*   **Cyberpunk Setting:** The game took place in a futuristic, cyberpunk world.
+*   **Story:** Players took on the role of a bounty hunter tasked with infiltrating a criminal organization.
+*   **Gameplay:** Players would shoot enemies and interact with the environment using the light gun. It was meant to feature branching paths and multiple endings.
+
+
+
+While a playable demo existed, the game was ultimately cancelled due to technical challenges and the rapidly changing landscape of gaming technology at the time. The FMV technology was becoming expensive and difficult to work with, and the PlayStation was quickly gaining popularity, offering a different approach to 3D graphics.
+
+
+
+You can find some footage of the demo online if you're interested in seeing what it looked like: [https://m.youtube.com/watch?v=S9iH7L4J354](https://m.youtube.com/watch?v=S9iH7L4J354)

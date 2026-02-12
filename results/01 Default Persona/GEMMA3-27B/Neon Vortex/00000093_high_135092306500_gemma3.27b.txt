@@ -1,0 +1,23 @@
+Neon Vortex was intended to be a **racing game**, but a *very* unusual one. It wasn't about cars or planes, but about **vector graphics "light cycles" racing through a virtual reality landscape**. 
+
+Here's a breakdown of the key elements:
+
+*   **Vector Graphics:** The entire game world and racers were constructed from simple, glowing vector lines - reminiscent of the original *Tron* arcade game.
+*   **VR Aesthetic:** It aimed to simulate a virtual reality experience, with a first-person perspective and a sense of speed and immersion.
+*   **Track Creation:** The tracks weren't pre-defined; they were *generated in real-time* based on the player's actions and the music.  The music would influence the shape and speed of the track.
+*   **Abstract Gameplay:** Rather than traditional racing, you'd be navigating and manipulating these vector trails, dodging obstacles, and trying to stay ahead. It was more about "flowing" through the environment than strict competition.
+*   **Psygnosis's ambition:** It was a highly ambitious project for its time, pushing the limits of the PlayStation hardware.
+
+
+
+It's often described as a blend of *Wipeout* (another Psygnosis racing game) and *Rez* (a later rhythm-action game), though it predates both.  It's become something of a legendary "lost game" due to its unique concept and the limited footage available.
+
+
+
+You can find more information and footage here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/neon-vortex-the-lost-ps1-racer-that-predicted-rez/](https://www.retrogamer.net/neon-vortex-the-lost-ps1-racer-that-predicted-rez/)
+*   **YouTube video with gameplay:** [https://m.youtube.com/watch?v=yH8X2mI4G7Q](https://m.youtube.com/watch?v=yH8X2mI4G7Q)
+
+
+

@@ -1,0 +1,26 @@
+Neon Vortex was intended to be a **fast-paced, 3D racing game** with a strong emphasis on futuristic visuals and a unique control scheme. 
+
+Here's a breakdown of what we know about the gameplay:
+
+* **Vector Graphics:** It heavily utilized vector graphics, creating a striking, minimalist aesthetic reminiscent of *Star Wars* cockpit views or *F-Zero*.
+* **"Wireframe" Racing:** The tracks and vehicles were largely constructed of wireframes, giving it a very distinct look for the time.
+* **Rotational Control:**  Instead of directly steering, players controlled the *rotation* of their ship. This meant you'd spin your ship to align with the track's twists and turns, a mechanic that proved difficult for many testers.
+* **Boost and Weapons:** It featured a boost mechanic and limited weapons to hinder opponents.
+* **Multiple Perspectives:**  The game offered a choice of cockpit and third-person perspectives.
+* **Amiga CD32 Focus:** It was primarily developed for the Amiga CD32, aiming to showcase the console's 3D capabilities.
+
+
+
+While often described as a racing game, it was more akin to a futuristic, arcade-style "track racer" than a simulation. The core concept was about speed, reflexes, and mastering the unusual rotational control.  
+
+The difficulty of the control scheme was a major factor in its cancellation. Psygnosis felt it was too difficult for the average player and wouldn't be commercially viable.
+
+
+
+You can find gameplay footage and more information here:
+
+*   **YouTube - Neon Vortex Gameplay:** [https://m.youtube.com/watch?v=L39zX-h_m3k](https://m.youtube.com/watch?v=L39zX-h_m3k)
+*   **Wikipedia - Neon Vortex:** [https://en.wikipedia.org/wiki/Neon_Vortex](https://en.wikipedia.org/wiki/Neon_Vortex)
+
+
+

@@ -1,0 +1,23 @@
+Neon Vortex was intended to be a **fast-paced, 3D racing game** with a strong emphasis on **arcade-style action and visual effects**. It's often described as a blend of *Wipeout* (also by Psygnosis) and *Star Fox*. 
+
+Here's a breakdown of the key elements:
+
+*   **3D Vector Graphics:** Like *Star Fox*, it used polygon-based graphics to create a sense of speed and depth. However, it was aiming for a much more detailed and visually impressive look than *Star Fox* at the time.
+*   **Anti-Gravity Racing:** Players controlled futuristic hovercrafts racing along twisting, neon-lit tracks.
+*   **Weapon System:**  Players could collect and use weapons to attack opponents, similar to *Wipeout*.
+*   **Branching Paths:** Tracks featured multiple routes, adding to replayability and strategic options.
+*   **FMV Cutscenes:**  The game was planned to have full-motion video (FMV) cutscenes to tell a story, which was unusual for the genre at the time.
+
+
+
+Unfortunately, despite being quite far along in development, *Neon Vortex* was canceled in 1994 due to technical challenges with the Amiga hardware and concerns about the game's complexity and potential to be too demanding for the system.  Footage of the game has surfaced over the years, giving fans a glimpse of what could have been a groundbreaking title.
+
+
+
+You can find more information and gameplay footage here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/psygnosis-neon-vortex-the-lost-amiga-racer/](https://www.retrogamer.net/psygnosis-neon-vortex-the-lost-amiga-racer/)
+*   **YouTube gameplay:** [https://m.youtube.com/watch?v=3R2F_29o5pU](https://m.youtube.com/watch?v=3R2F_29o5pU)
+
+
+

@@ -1,0 +1,15 @@
+Neon Vortex was intended to be a **fast-paced, 3D scrolling shooter/racer hybrid**. 
+
+Here's a breakdown of what made it unique:
+
+*   **Vector Graphics:** It heavily utilized vector graphics, giving it a very distinct, minimalist, and glowing aesthetic reminiscent of *Star Fox* or *F-Zero*, but even more abstract.
+*   **Track-Based Movement:** Players didn't freely fly, but were locked onto a pre-defined track that twisted and turned through neon-lit environments.
+*   **Shooting Elements:**  You could shoot at enemies and obstacles along the track.
+*   **Speed & Momentum:** The focus was on maintaining high speed and skillfully navigating the tracks. It was meant to be incredibly fast and challenging.
+*   **Multiplayer:** It was designed with a strong emphasis on two-player competitive racing.
+
+Essentially, imagine a futuristic racer like *F-Zero* combined with the shooting mechanics of *Star Fox*, but presented with a completely unique visual style.
+
+
+
+Unfortunately, despite being quite far along in development, it was cancelled due to technical challenges with the PlayStation hardware at the time and concerns about its complexity and accessibility for a wider audience. It gained a cult following through leaked gameplay footage and screenshots.

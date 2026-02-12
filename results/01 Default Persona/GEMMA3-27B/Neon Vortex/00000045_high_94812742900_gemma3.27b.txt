@@ -1,0 +1,16 @@
+Neon Vortex was intended to be a **fast-paced, 3D racing game with a strong emphasis on vector graphics and a futuristic, psychedelic aesthetic.** 
+
+Here's a breakdown of the key elements:
+
+*   **3D Racing:** It wasn't a traditional polygonal 3D racer like Wipeout. Instead, it used vector graphics (lines and shapes) to create the tracks and ships, giving it a unique, glowing, Tron-like look.
+*   **Vector Graphics:** This was the defining feature. The game was built around creating a visual style reminiscent of early arcade games like Battlezone, but with a much more fluid and colorful implementation.
+*   **Speed & Momentum:**  Gameplay was described as incredibly fast, requiring precise control and memorization of the track layouts.
+*   **Psychedelic Visuals:**  The game heavily featured bright neon colors, swirling patterns, and a generally trippy visual style, hence the name "Neon Vortex."
+*   **Similar to *Wipeout*:** It was often compared to Psygnosis's own *Wipeout*, but with a more abstract and visually distinct style.  It was actually conceived *before* Wipeout, but development issues led to it being shelved.
+
+
+
+Sadly, *Neon Vortex* was never released. A playable demo surfaced online in 2016, allowing people to finally experience the game that was lost for over two decades. You can find gameplay videos on YouTube if you're interested in seeing what it was like.
+
+
+

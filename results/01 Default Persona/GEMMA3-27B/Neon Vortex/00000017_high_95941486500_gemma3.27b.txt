@@ -1,0 +1,15 @@
+Neon Vortex was intended to be a **racing game** with a very unique twist. However, it wasn't just a standard racing game. It was a **vector-based, psychedelic racing game** with elements of a shooter and puzzle solving. 
+
+Here's a breakdown of what made it special:
+
+*   **Vector Graphics:** Like *Stunt Car Racer* and *Wipeout*, it used vector graphics to create a minimalist, futuristic look.
+*   **Psychedelic Visuals:** It was heavily focused on intense, colorful, and hypnotic visuals – hence the "Neon" in the title.  The tracks were designed to be disorienting and visually stimulating.
+*   **Track Manipulation:** Players didn't just race *on* the track, they could **actively change and manipulate the track itself** using weapons and abilities, creating new paths and obstacles for opponents.
+*   **Shooting Elements:**  Players could fire at opponents to slow them down or alter the track further.
+*   **Puzzle Solving:** Some sections of the track required puzzle-solving to open up new routes.
+
+Essentially, it was aiming to be a blend of *Wipeout*'s speed, *Stunt Car Racer*'s track deformation, and a heavy dose of psychedelic visuals and puzzle elements.
+
+
+
+It was cancelled relatively late in development, and a playable demo surfaced online in 2016, allowing people to finally experience this lost Psygnosis title. You can find videos of it on YouTube to get a better sense of its gameplay.

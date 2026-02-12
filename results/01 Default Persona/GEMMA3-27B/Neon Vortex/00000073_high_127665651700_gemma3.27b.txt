@@ -1,0 +1,17 @@
+Neon Vortex was intended to be a **racing game**, but *very* different from most racers of the time. It's best described as a **vector-based, psychedelic, futuristic racing game with a focus on manipulating the track itself.**
+
+Here's a breakdown of its key features and gameplay:
+
+*   **Vector Graphics:** Like *Star Wars* arcade or *F-Zero* on SNES, it used wireframe polygonal graphics, creating a stark, minimalist aesthetic.
+*   **Track Manipulation:**  The core mechanic wasn't just about speed, but *changing the track*. Players could alter the course of the race in real-time by manipulating "nodes" within the vector environment. This allowed for creating shortcuts, blocking opponents, or making the track more difficult.
+*   **Psychedelic Visuals:** The game was renowned for its intense, swirling colors and abstract visual effects, aiming for a trippy, immersive experience.
+*   **Fast-Paced and Difficult:**  It was designed to be incredibly fast and challenging.
+*   **Atmospheric Soundtrack:**  The music was intended to be a key component of the experience, complementing the visuals and gameplay.
+
+
+
+Essentially, think of it as a blend of *F-Zero*, *Wipeout*, and a track-building game, all wrapped in a very distinctive, psychedelic package. It was ambitious for its time, and unfortunately, never saw the light of day due to technical challenges and the PlayStation's changing development landscape.
+
+
+
+You can find videos of gameplay footage online to get a better sense of what it was like: [https://www.youtube.com/watch?v=i-J4uK3yP-k](https://www.youtube.com/watch?v=i-J4uK3yP-k) and [https://www.youtube.com/watch?v=R5n8qUeQeG0](https://www.youtube.com/watch?v=R5n8qUeQeG0)

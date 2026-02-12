@@ -1,0 +1,14 @@
+Neon Vortex was intended to be a **racing/shooter hybrid** with a strong emphasis on **vector graphics and a futuristic aesthetic**. 
+
+Here's a breakdown of what it was aiming to be:
+
+*   **Racing:** Players would control a ship racing through abstract, neon-lit courses.
+*   **Shooting:**  Players could fire at opponents and obstacles.
+*   **Vector Graphics:** The game was notable for its planned use of pure vector graphics, similar to games like *Stunt Car Racer* (also by Psygnosis), but far more complex and visually striking.
+*   **Atmosphere:** The game was intended to create a sense of speed and immersion through its visuals and sound design, with a focus on a cyberpunk/futuristic vibe.
+
+Essentially, imagine a blend of *F-Zero*, *Stunt Car Racer*, and a dash of *Wipeout*, but with a unique visual style that heavily leveraged vector graphics.
+
+
+
+Unfortunately, the game was cancelled relatively late in development due to technical challenges with getting the vector graphics to run smoothly on the PlayStation 1 hardware.  Footage and information about the game have surfaced over the years, showcasing its ambitious design and potential.

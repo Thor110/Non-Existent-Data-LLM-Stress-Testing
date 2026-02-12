@@ -1,0 +1,23 @@
+Neon Vortex was intended to be a **full-motion video (FMV) light gun shooter**, heavily inspired by the Sega CD game *Sewer Shark*. 
+
+Here's a breakdown of what we know about the gameplay:
+
+*   **On-rails shooter:** Players would move through pre-rendered 3D environments automatically.
+*   **FMV integration:**  The game relied heavily on full-motion video sequences for cutscenes and enemy appearances. Enemies were real actors filmed and digitally inserted into the game world.
+*   **Cyberpunk setting:** The game was set in a futuristic, neon-drenched cyberpunk world.
+*   **Unique Gun:** The game was intended to be played with a unique light gun that had a built-in microphone. The microphone was meant to be used for voice commands to interact with the game.
+*   **Story:** The player takes on the role of a police officer investigating a virtual reality arcade where people are dying while playing a new game.
+
+
+
+Unfortunately, due to technical difficulties (particularly getting the light gun to work reliably with the FMV and the PlayStation hardware) and concerns about the quality of the acting, the game was cancelled before release.  Footage has surfaced over the years, showcasing its unique (and often cheesy) style.
+
+
+
+You can find more information and footage here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/psygnosis-neon-vortex-cancelled-ps1-game/](https://www.retrogamer.net/psygnosis-neon-vortex-cancelled-ps1-game/)
+*   **YouTube gameplay video:** [https://m.youtube.com/watch?v=X5z-344tWqE](https://m.youtube.com/watch?v=X5z-344tWqE)
+
+
+

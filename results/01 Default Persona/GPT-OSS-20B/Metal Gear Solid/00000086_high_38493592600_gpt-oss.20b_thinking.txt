@@ -1,0 +1,11 @@
+The user asks: "What type of game was Metal Gear Solid?" They want to know the genre of Metal Gear Solid. Likely answer: stealth action-adventure, platformer, tactical stealth game. The user might want a concise answer. But as ChatGPT, I should provide a thorough answer: It's a stealth action game, third-person, with platforming elements, from the Metal Gear series by Hideo Kojima, originally released for PlayStation in 1998, etc. It's known for stealth gameplay, non-linear level design, and cinematic storytelling. So I can answer: It was a stealth-action game, a third-person shooter with platforming, considered a stealth-based action-adventure.
+
+But maybe they want the type: "Metal Gear Solid is a stealth action game, specifically a third-person stealth-based platformer." Or "Metal Gear Solid is a stealth game." The question: "What type of game was Metal Gear Solid?" They might want "It was a stealth-based action-adventure game." Or "It was a stealth platformer." The answer: "Metal Gear Solid was a stealth action game that combined platforming and third-person shooting." Also mention "tactical stealth game" and "action-adventure." Provide some context: It's a stealth game that emphasizes avoiding enemies, using disguises, etc. It's not a shooter or a puzzle game. So answer accordingly.
+
+Thus, the answer: "Metal Gear Solid was a stealth action game, specifically a third-person stealth-based platformer." Maybe mention that it's a stealth platformer.
+
+The user might want a brief answer. I'll give a short answer: "Metal Gear Solid is a stealth action game (third-person, platformer) from the Metal Gear series." That should suffice.
+
+I might also mention the type: "It was a stealth platformer and action-adventure game." Provide a short description. Also mention that it was originally a 3D platformer with stealth elements.
+
+The user might also want "Metal Gear Solid was a stealth action game." So I'll answer that.

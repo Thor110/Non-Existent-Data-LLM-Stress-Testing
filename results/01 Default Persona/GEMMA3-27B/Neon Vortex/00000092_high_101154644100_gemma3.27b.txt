@@ -1,0 +1,21 @@
+Neon Vortex was intended to be a **fast-paced, 3D racing game** with a strong emphasis on **neon-lit, futuristic environments and physics-based handling**. 
+
+Here's a breakdown of what we know about the gameplay:
+
+*   **3D Vector Graphics:** It used vector graphics, similar to *Star Fox* on the SNES, to create a sense of speed and depth.
+*   **Physics-Based Handling:** The cars weren't just on rails. Players had a degree of control over drifting and sliding, making the handling quite challenging and skill-based.
+*   **Futuristic Settings:** The game took place in a network of interconnected, glowing neon tubes and tunnels.
+*   **Split-Screen Multiplayer:** It was designed with 2-player split-screen multiplayer in mind.
+*   **Unique Camera:** The camera was positioned quite low and close to the car, enhancing the feeling of speed.
+
+Essentially, it was aiming to be a technologically advanced arcade racer for the PlayStation, pushing the limits of the console's capabilities at the time. It's often described as a blend of *Wipeout* and *Super Mario Kart*, but with a more realistic (and difficult) physics model.
+
+
+
+You can find a lot more information, including gameplay footage, on sites like:
+
+*   **Lost Media Wiki:** [https://lostmediawiki.com/Neon_Vortex](https://lostmediawiki.com/Neon_Vortex)
+*   **YouTube (various videos of recovered builds):** Search "Neon Vortex Psygnosis" on YouTube.
+
+
+

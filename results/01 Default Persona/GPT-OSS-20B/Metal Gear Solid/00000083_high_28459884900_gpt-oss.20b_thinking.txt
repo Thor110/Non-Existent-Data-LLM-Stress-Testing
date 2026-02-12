@@ -1,0 +1,7 @@
+The user asks: "What type of game was Metal Gear Solid?" They want to know the genre or type of the game. They likely want to know that Metal Gear Solid is a stealth action game, a third-person stealth action-adventure game, part of the Metal Gear series. It's a stealth game, also sometimes considered a platformer, but primarily a stealth action. The answer: It's a stealth action-adventure game, with third-person perspective. It was developed by Konami, directed by Hideo Kojima. It was originally released for the PlayStation in 1998. The game features stealth, platforming, action, and puzzle elements. So the answer: It's a stealth action game. The user might also want a more detailed answer: It is a third-person stealth action-adventure game. So answer: It's a stealth action game. I can mention it's a third-person stealth game with platforming and action elements. So I will answer that. But the user might want the type of game: "Metal Gear Solid is a stealth action game." So I'll answer accordingly.
+
+We should answer concisely: "Metal Gear Solid is a third-person stealth action game (stealth action-adventure)."
+
+Also mention that it's a 3D stealth action-adventure game. So final answer: It's a stealth action game.
+
+Thus: The game is a stealth action game, specifically a third-person stealth action-adventure. So answer.

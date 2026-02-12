@@ -1,0 +1,19 @@
+Neon Vortex was intended to be a **racing game**, but a very unique one. It wasn't your typical circuit racer. Here's a breakdown of what it was aiming to be:
+
+*   **Vector Graphics Based:** It was built around stunning, fully 3D vector graphics (similar to *Star Fox* on SNES, but far more advanced for the time).
+*   **"Fly-Through" Racing:** Instead of racing *on* a track, you flew *through* a complex, abstract network of neon-lit tunnels and pathways. Think of it like a 3D rollercoaster mixed with a futuristic race.
+*   **Non-Euclidean Geometry:** A key feature was the use of non-Euclidean geometry, meaning the game world wasn't bound by normal rules of space. Paths could loop back on themselves, connect in impossible ways, and create mind-bending visual effects.
+*   **Focus on Speed and Navigation:** The gameplay was about memorizing the complex pathways and navigating them at high speed. It was less about traditional racing tactics like overtaking and more about skill and spatial awareness.
+*   **Atmospheric and Sensory:** The game aimed for a strong atmospheric experience with pulsing electronic music and vibrant visuals.
+
+Essentially, Neon Vortex was a precursor to games like *F-Zero GX* and *Wipeout*, but with a much more experimental and psychedelic approach to track design and visual presentation. It was ambitious for its time, pushing the limits of the PlayStation's hardware.
+
+
+
+You can find more information and see gameplay footage (from the few builds that exist) here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/neon-vortex-psygnosis-lost-ps1-game/](https://www.retrogamer.net/neon-vortex-psygnosis-lost-ps1-game/)
+*   **YouTube Gameplay:** [https://m.youtube.com/watch?v=tq_v0iW8U-Q](https://m.youtube.com/watch?v=tq_v0iW8U-Q)
+
+
+

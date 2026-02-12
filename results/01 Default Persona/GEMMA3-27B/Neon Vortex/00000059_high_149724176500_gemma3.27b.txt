@@ -1,0 +1,23 @@
+Neon Vortex was intended to be a **fast-paced, 3D racing game with a strong emphasis on atmospheric visuals and a unique control scheme.** It wasn't *quite* like anything else at the time. Here's a breakdown:
+
+*   **Racing:** At its core, it was a racer, but not a traditional one. It didn't focus on overt competition with other racers (though that was planned).
+*   **3D Vector Graphics:** It used vector graphics to create a minimalist, neon-lit world. Think *Star Fox* or *F-Zero* in terms of visual style, but much more abstract and focused on flowing lines and shapes.
+*   **"Flow State" Gameplay:** The goal wasn't necessarily to *win* but to maintain speed and enter a "flow state" – a hypnotic, immersive experience. You'd be racing through abstract courses, trying to maintain momentum and avoid crashing.
+*   **Unique Control:** It was intended to use a rotational control system, where players would rotate the track itself to guide their ship. This was a radical departure from the typical steering found in racing games of the era.
+*   **Atmospheric & Psychedelic:** Psygnosis (known for *Wipeout* and *Lemmings*) aimed for a very atmospheric and psychedelic experience, with a focus on sound design and visuals to create a sense of speed and immersion.
+
+
+
+Essentially, it was a precursor to games like *Rez* and *Audiosurf* in its emphasis on synesthesia and the blending of music, visuals, and gameplay.
+
+Unfortunately, due to technical difficulties with the Amiga hardware and the project being deemed too ambitious for the time, it was cancelled before release.  Footage and information about it remain fascinating to gaming historians.
+
+
+
+You can find more information and footage here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/neon-vortex-the-lost-psygnosis-racer/](https://www.retrogamer.net/neon-vortex-the-lost-psygnosis-racer/)
+*   **YouTube Gameplay Footage:** [https://m.youtube.com/watch?v=eYxJ1uU6YJ8](https://m.youtube.com/watch?v=eYxJ1uU6YJ8)
+
+
+

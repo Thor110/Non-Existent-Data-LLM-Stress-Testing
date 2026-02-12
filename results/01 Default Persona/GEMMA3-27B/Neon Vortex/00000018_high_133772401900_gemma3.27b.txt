@@ -1,0 +1,22 @@
+Neon Vortex was intended to be a **fast-paced, 3D scrolling shooter/racing game** with a strong emphasis on vector graphics and a futuristic, psychedelic aesthetic. 
+
+Here's a breakdown of the gameplay elements as understood from surviving footage and developer commentary:
+
+*   **Vector Graphics:** The game heavily utilized vector graphics, creating a clean, minimalist look with glowing lines and shapes. This was somewhat unusual for the time, as most games were moving towards textured polygons.
+*   **3D Scrolling:** Players would control a ship flying through a series of abstract, 3D tunnels.
+*   **Racing/Time Attack:** While it had elements of shooting, the core gameplay was more about navigating the courses as quickly as possible, similar to a racing game or time attack mode.
+*   **Power-Ups:** The ship could collect power-ups to enhance its speed, firing capabilities, or shield.
+*   **Psychedelic Visuals:** The game was meant to be visually striking, with vibrant colors, swirling patterns, and a generally trippy, immersive atmosphere.
+
+Essentially, imagine a blend of *Star Fox*, *F-Zero*, and the visual style of *Rez* (though *Rez* came much later), all built with vector graphics.
+
+
+
+It was cancelled due to technical challenges with the PlayStation 1 hardware at the time, specifically maintaining a consistent framerate with the complex vector graphics and 3D scrolling.
+
+
+
+You can find some gameplay footage and information here:
+
+*   **YouTube - Neon Vortex Gameplay:** [https://m.youtube.com/watch?v=z-eG7-tP2tI](https://m.youtube.com/watch?v=z-eG7-tP2tI)
+*   **Unseen64 - Neon Vortex:** [https://www.unseen64.net/2011/11/10/neon-vortex-ps1-cancelled/](https://www.unseen64.net/2011/11/10/neon-vortex-ps1-cancelled/)

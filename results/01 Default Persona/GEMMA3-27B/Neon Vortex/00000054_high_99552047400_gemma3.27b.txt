@@ -1,0 +1,17 @@
+Neon Vortex was intended to be a **full-motion video (FMV) light gun shooter**, but with a very unique twist. It wasn't just about shooting targets.
+
+Here's a breakdown of the gameplay concept:
+
+*   **FMV & Live Actors:** The game used pre-recorded full-motion video footage of live actors in a futuristic, neon-lit setting.
+*   **Branching Narrative:** The core mechanic was *not* just accuracy with the light gun. Players had to make choices *how* to shoot (headshots, disarming, etc.) and *what* to shoot at.  These choices affected the story, leading to multiple endings and different paths through the game.
+*   **Moral Choices:** The game heavily emphasized moral ambiguity. Players weren't simply "good guys" shooting "bad guys." They were presented with situations where there wasn't a clear right or wrong answer, and their actions had consequences.
+*   **Psychological Thriller:** The game aimed to be more of a psychological thriller than a straightforward action game, focusing on the player's reactions to the scenarios presented.
+
+Essentially, it was trying to be a more interactive and morally complex version of games like *Sewer Shark* or *Mad Dog McCree*, but with a much stronger focus on narrative and player agency.
+
+
+
+It was ambitious for the time, but technical limitations and the declining popularity of FMV games led to its cancellation.  Footage has surfaced over the years, giving a good idea of what it would have been like. You can find videos of it on YouTube.
+
+
+

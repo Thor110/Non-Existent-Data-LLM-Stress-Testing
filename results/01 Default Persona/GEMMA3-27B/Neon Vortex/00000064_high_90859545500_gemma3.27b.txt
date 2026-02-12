@@ -1,0 +1,17 @@
+Neon Vortex was intended to be a **first-person puzzle game** with a strong emphasis on manipulating gravity and perspective. 
+
+Here's a breakdown of what we know about its gameplay:
+
+*   **Gravity Manipulation:** The core mechanic revolved around rotating the game world to change the direction of gravity. This allowed players to walk on walls, ceilings, and solve puzzles by altering how objects fell.
+*   **Escher-esque Levels:** Levels were designed with impossible geometry inspired by the artwork of M.C. Escher, creating disorienting and mind-bending environments.
+*   **Non-Violent:** It was explicitly designed *without* combat, focusing purely on puzzle-solving.
+*   **Atmospheric:** The game aimed for a unique, atmospheric experience with a minimalist aesthetic and electronic soundtrack.
+*   **Early VR Influences:** While not VR itself, the game explored concepts that would later become prominent in virtual reality, such as spatial awareness and perspective manipulation.
+
+
+
+It's often considered a precursor to games like *Portal* and *Antichamber* due to its focus on non-Euclidean geometry and perspective-based puzzles, even though it predates them by many years.
+
+
+
+Despite being cancelled, gameplay footage and information have surfaced over time, solidifying its place as a cult classic "lost game" and a fascinating example of early 90s game design experimentation. You can find videos of gameplay on YouTube to get a better sense of it.

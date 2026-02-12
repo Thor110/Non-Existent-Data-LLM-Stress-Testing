@@ -1,0 +1,17 @@
+Neon Vortex was intended to be a **racing game**, but a very *unique* one. It wasn't just about speed, but about **navigating complex, twisting, and ever-changing vector graphics courses**. 
+
+Here's a breakdown of its key features and genre elements:
+
+*   **Vector Graphics:** The game was built around striking, minimalist vector graphics, similar to early arcade games like *Battlezone* or *Star Wars*.
+*   **Non-Euclidean Geometry:** This was the defining characteristic. The courses weren't simply tracks; they were designed with non-Euclidean geometry, meaning the rules of space were bent and broken.  Tracks could loop back on themselves in impossible ways, create optical illusions, and generally disorient the player.
+*   **Puzzle Elements:** Successfully navigating the courses required more than just skillful driving. Players had to understand the spatial anomalies and solve puzzles within the track itself to find the correct path.
+*   **Atmospheric/Trance Soundtrack:** The game aimed for a hypnotic, immersive experience with a trance-inspired soundtrack.
+
+While it's *technically* a racing game, it leaned heavily into **puzzle, exploration, and a very psychedelic experience**. It's often described as a blend of *F-Zero*, *Stunt Race FX*, and a puzzle game all wrapped up in a visually arresting package.
+
+
+
+It was cancelled late in development, and only a very limited amount of gameplay footage and information exists. It's become something of a legendary lost game among retro gaming enthusiasts. You can find some gameplay videos on YouTube if you search for "Neon Vortex Psygnosis".
+
+
+

@@ -1,0 +1,21 @@
+Neon Vortex was intended to be a **racing game**, but *highly* unconventional. It wasn't about cars or planes, but rather **navigating a vector-based, abstract "light cycle" through a shifting, neon-drenched virtual world.**
+
+Here's a breakdown of its key features and genre elements:
+
+*   **Vector Graphics:** The entire game was built using vector graphics, creating a very clean, minimalist aesthetic reminiscent of early arcade games like *Battlezone* or *Starlight*.
+*   **First-Person Perspective:**  You experienced the game from a first-person perspective, adding to the sense of speed and immersion.
+*   **Abstract Tracks:** The "tracks" weren't traditional roads or courses. They were formed by trails of light you created as you flew through the environment.  These trails would then become the path you needed to follow, but they'd constantly shift and change.
+*   **Puzzle Elements:** It wasn't just about speed. The game required you to manipulate the environment and the light trails to create a path forward, incorporating puzzle-solving aspects.
+*   **Atmospheric and Trippy:** Psygnosis aimed for a very atmospheric and psychedelic experience, with a focus on visual effects and a trance-like soundtrack.
+
+**Therefore, while fundamentally a racing game, Neon Vortex was a unique blend of racing, puzzle, and atmospheric exploration, leaning heavily into experimental design.**  It's often described as a "light cycle racer" or a "vector-based puzzle racer."
+
+
+
+You can find some gameplay footage and more information here:
+
+*   **YouTube - Neon Vortex Gameplay:** [https://m.youtube.com/watch?v=k5g3bX_J-aA](https://m.youtube.com/watch?v=k5g3bX_J-aA)
+*   **Lost Media Wiki - Neon Vortex:** [https://lostmediawiki.com/Neon_Vortex](https://lostmediawiki.com/Neon_Vortex)
+
+
+

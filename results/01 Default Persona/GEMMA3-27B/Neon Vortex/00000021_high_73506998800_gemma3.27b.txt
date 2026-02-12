@@ -1,0 +1,13 @@
+Neon Vortex was intended to be a **full-motion video (FMV) light gun shooter** with puzzle elements. 
+
+Here's a breakdown of what we know about the gameplay:
+
+*   **FMV Focus:** The game heavily relied on pre-rendered full-motion video sequences. Players would shoot at objects and enemies within these videos.
+*   **Light Gun Gameplay:** It was designed to be played with a light gun peripheral (like the Menacer).
+*   **Puzzle Integration:** Unlike a purely action-focused light gun game, Neon Vortex incorporated puzzle-solving into the gameplay. Players would need to shoot specific objects in the correct order or interact with the environment to progress.
+*   **Cyberpunk Setting:** The game was set in a futuristic, cyberpunk world, and the story involved a virtual reality system.
+*   **Non-Linear Story:** The game was intended to have a branching narrative, with player choices and actions affecting the story's outcome.
+
+
+
+It was quite ambitious for its time, aiming to blend action and puzzle elements within a compelling FMV experience. Unfortunately, it was cancelled before release due to technical issues and the declining popularity of FMV games.

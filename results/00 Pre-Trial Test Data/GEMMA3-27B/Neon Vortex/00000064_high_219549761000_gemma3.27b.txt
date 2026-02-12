@@ -1,0 +1,23 @@
+Ah, *Neon Vortex*! That's a fascinating bit of gaming history. It was intended to be a fully 3D, fast-paced, action-puzzle game, heavily inspired by *Wipeout* but with a much greater emphasis on puzzle-solving and exploration.
+
+Here's a breakdown of the gameplay concepts:
+
+*   **First-Person Perspective:** Unlike *Wipeout*'s third-person view, *Neon Vortex* was designed to be played from a first-person perspective, placing you directly in the cockpit of the ship.
+*   **Non-Euclidean Geometry:** The core mechanic revolved around manipulating the game's environment. The levels were built using non-Euclidean geometry, meaning the laws of physics and spatial relationships were distorted. Players could bend, twist, and rotate sections of the track to create new pathways and solve puzzles.
+*   **Puzzle Elements:** The game wasn't just about speed; it required players to think strategically and manipulate the environment to progress. You needed to find and activate switches, align pathways, and use the distorted geometry to your advantage.
+*   **Fast-Paced Action:** Despite the puzzle elements, *Neon Vortex* still aimed for the high-speed thrills of *Wipeout*. Players would race against the clock while navigating the complex and ever-changing tracks.
+*   **Cyberpunk Aesthetic:** Like many Psygnosis games of the era, *Neon Vortex* featured a sleek, futuristic, cyberpunk aesthetic with vibrant neon colors and abstract designs.
+
+**Why it was cancelled:**
+
+The game was incredibly ambitious for its time. The non-Euclidean geometry was particularly challenging to implement on the hardware of the mid-90s (PlayStation and Amiga). Technical difficulties, combined with concerns about the game's complexity and potential lack of mass appeal, led Psygnosis to cancel the project.
+
+Only a few playable demos and screenshots of *Neon Vortex* ever surfaced, but they've become legendary among gaming enthusiasts. It remains a highly sought-after piece of unreleased gaming history.
+
+You can find some gameplay footage and information on sites like:
+
+*   [https://www.youtube.com/watch?v=L8rP1Jv0tU8](https://www.youtube.com/watch?v=L8rP1Jv0tU8)
+*   [https://en.wikipedia.org/wiki/Neon_Vortex](https://en.wikipedia.org/wiki/Neon_Vortex)
+
+
+

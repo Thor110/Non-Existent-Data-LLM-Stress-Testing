@@ -1,0 +1,21 @@
+Neon Vortex was intended to be a **racing game**, but *very* different from typical racing games of the time. It was a **vector-based, futuristic racer** with a heavy emphasis on **trick-based gameplay** and **music synchronization**. 
+
+Here's a breakdown of what made it unique:
+
+*   **Vector Graphics:** Like *Stunt Car Racer* (also by Psygnosis), it used wireframe polygon graphics, giving it a distinct, minimalist aesthetic.
+*   **Track Creation:** Tracks weren't pre-defined. They were dynamically generated based on the music track playing. The beat of the music directly influenced the shape and layout of the course.
+*   **Trick System:** Players could perform tricks (loops, rolls, etc.) by timing their actions to the music, earning speed boosts and points.
+*   **Focus on Flow:** The game wasn't about *winning* a race in the traditional sense. It was about maintaining a flow state and maximizing your score by performing tricks in sync with the music.
+*   **Atmosphere:** The game aimed for a very atmospheric and immersive experience, with a focus on the visual and auditory experience.
+
+Think of it as a blend of *Wipeout*, *Stunt Car Racer*, and *Rez*, but released in 1994. It was incredibly ambitious for its time, and likely too technologically demanding for the hardware of the day, which contributed to its cancellation.
+
+
+
+You can find some gameplay footage and information here:
+
+*   **YouTube - Neon Vortex - The Lost Psygnosis Racer:** [https://m.youtube.com/watch?v=V-rW-VqU90U](https://m.youtube.com/watch?v=V-rW-VqU90U)
+*   **Retro Gamer article:** [https://www.retrogamer.net/neon-vortex-psygnosis-lost-game-interview/](https://www.retrogamer.net/neon-vortex-psygnosis-lost-game-interview/)
+
+
+

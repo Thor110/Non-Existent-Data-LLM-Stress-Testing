@@ -1,0 +1,18 @@
+Neon Vortex was intended to be a **fast-paced, 3D racing game with a strong emphasis on futuristic, vector graphics and a unique "gravity-defying" control scheme.** 
+
+Here's a breakdown of what made it unique:
+
+*   **Vector Graphics:**  Like *Star Wars* arcade games or *F-Zero* on the SNES, it used simple lines and shapes to create a minimalist, high-speed aesthetic.
+*   **Gravity-Defying Tracks:** The tracks weren't just about turning left and right. Players could flip and rotate their ship around the track, essentially flying around the inside of the courses. This was a core mechanic.
+*   **Fast Paced:**  It was designed to be *very* fast, aiming for a sense of extreme speed.
+*   **Multiplayer Focus:** It was intended to have a robust multiplayer mode, which was a key selling point.
+*   **Amiga CD32 & PlayStation:** It was being developed for both the Amiga CD32 and the original PlayStation.
+
+
+
+Unfortunately, due to various issues (reportedly technical difficulties getting the game to run smoothly on both platforms, and Psygnosis shifting focus to other titles like *Wipeout*), it was never released.  However, playable demos and footage have surfaced over the years, giving us a good understanding of what it would have been like.
+
+You can find videos of gameplay on YouTube if you're interested in seeing it in action: [https://www.youtube.com/watch?v=Q-xR5qJ_22o](https://www.youtube.com/watch?v=Q-xR5qJ_22o)
+
+
+

@@ -1,0 +1,20 @@
+Neon Vortex was intended to be a **first-person puzzle game** with a strong emphasis on atmosphere and non-violent gameplay. 
+
+Here's a breakdown of what we know about the gameplay:
+
+*   **Non-Violent:** Unlike many games of the era, it wasn't an action game. The focus was entirely on solving puzzles.
+*   **Abstract Environments:** The game featured incredibly abstract, geometric, and neon-lit environments. Think Escher-like structures and impossible geometry.
+*   **Perspective Manipulation:** A key mechanic involved manipulating your perspective and the environment itself to create pathways and solve puzzles. It was inspired by games like *Another World* and *Icarus*, but with a much more abstract and puzzle-focused approach.
+*   **Exploration & Discovery:** Players would explore these strange worlds, discovering how the environment reacted to their presence and using that to progress.
+*   **Atmospheric & Evocative:** Psygnosis aimed for a strong sense of atmosphere and a dreamlike quality.
+
+
+
+It was a fairly ambitious project for the time, pushing the technical limits of the Amiga (and later, planned PlayStation release). Unfortunately, it was canceled due to technical difficulties and concerns about marketability. However, gameplay footage has surfaced over the years, giving a good idea of what it would have been like.
+
+You can find some videos showing gameplay here:
+*   [https://m.youtube.com/watch?v=eW8VfO7-YJc](https://m.youtube.com/watch?v=eW8VfO7-YJc)
+*   [https://m.youtube.com/watch?v=yJv5G6lU-S8](https://m.youtube.com/watch?v=yJv5G6lU-S8)
+
+
+

@@ -1,0 +1,20 @@
+Neon Vortex was intended to be a **3D puzzle/action game** with a strong emphasis on speed and reflexes. Here's a breakdown of what we know about its gameplay:
+
+*   **First-Person Perspective:** Played from a first-person viewpoint.
+*   **Vector Graphics:** Featured striking, minimalist vector graphics – think *Star Fox* or *F-Zero* but in a more abstract, puzzle-focused environment.
+*   **Rotating Corridors:** The core mechanic involved navigating a network of rapidly rotating, neon-lit corridors.
+*   **Puzzle Elements:** Players had to manipulate the corridors and timing to create pathways and reach the exit of each level.
+*   **Fast-Paced Action:** The speed of the rotations and the need for precise timing meant it was intended to be a very quick-reflexes game. It wasn't just about solving puzzles, but *how quickly* you could solve them while avoiding being smashed into the walls.
+*   **Similar to Stunt Race FX:** It was often described as being a bit like *Stunt Race FX*, but with a focus on puzzles rather than racing.
+
+Essentially, it aimed to combine the visual style of early 3D vector graphics games with the puzzle-solving of something like a maze game, but with a high-speed, action-oriented twist.
+
+
+
+You can find some gameplay footage and more details here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/psygnosis-neon-vortex-unreleased-playstation-game/](https://www.retrogamer.net/psygnosis-neon-vortex-unreleased-playstation-game/)
+*   **YouTube Gameplay:** [https://m.youtube.com/watch?v=v2W3rK4YF2U](https://m.youtube.com/watch?v=v2W3rK4YF2U)
+
+
+

@@ -1,0 +1,21 @@
+Neon Vortex was intended to be a **fast-paced, 3D racing game with a strong emphasis on atmosphere and a unique "wireframe" visual style**. 
+
+Here's a breakdown of what made it unique:
+
+*   **3D Racing:** It wasn't a traditional polygonal 3D racer. Instead, it used vector graphics – essentially drawing the tracks and vehicles as glowing lines.
+*   **Atmospheric:** Psygnosis aimed for a very specific, moody atmosphere. It was inspired by *Tron* and cyberpunk aesthetics, with neon lights, pulsating music, and a sense of speed.
+*   **Physics-based:** The game focused on a realistic physics model, meaning that collisions and handling were meant to be quite challenging and skill-based.
+*   **Track Design:** Tracks were designed to be twisting, turning, and often looping, making navigation difficult.
+*   **Multiplayer Focus:** A key feature was a planned 8-player multiplayer mode, which was ambitious for the time.
+
+
+
+Unfortunately, due to technical difficulties (specifically getting it to run smoothly on the Amiga 1200 hardware) and the impending release of the PlayStation (which Psygnosis shifted focus to), *Neon Vortex* was cancelled and never officially released. However, playable builds have surfaced over the years, giving fans a glimpse of what could have been.
+
+You can find more information and gameplay footage here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/neon-vortex-the-lost-psygnosis-racer/](https://www.retrogamer.net/neon-vortex-the-lost-psygnosis-racer/)
+*   **YouTube gameplay:** [https://m.youtube.com/watch?v=b6_o3QyP-yY](https://m.youtube.com/watch?v=b6_o3QyP-yY)
+
+
+

@@ -1,0 +1,17 @@
+Neon Vortex was intended to be a **racing game**, but *highly* unconventional for the time. It wasn't about speed in the traditional sense, but about **navigating a complex, abstract, and geometrically shifting 3D world**. 
+
+Here's a breakdown of the gameplay:
+
+*   **Vector-based graphics:** The game used entirely vector-based graphics, creating a very clean, minimalist look reminiscent of early arcade games like *Battlezone* or *Starlight*.
+*   **"Flow" based racing:** Instead of a track, players navigated through a network of interconnected pathways made of glowing neon lines. The goal wasn't to be the fastest, but to maintain "flow" – staying on the pathways and avoiding collisions.
+*   **Dynamic Geometry:** The pathways would constantly shift, rotate, and change shape in real-time, creating a disorienting but visually stunning experience.
+*   **Trance-inducing atmosphere:** The game aimed for a hypnotic, psychedelic atmosphere with a focus on ambient music and visuals.
+*   **Multiplayer Focus:** It was designed with a strong multiplayer component, intended to be played with up to 8 players.
+
+Essentially, it was a blend of racing, puzzle, and atmospheric exploration. It's often described as a "cyberpunk *Battlezone*" or a "virtual reality racer" due to its unique aesthetic and gameplay.
+
+It was never released due to technical challenges (getting it to run smoothly on the Amiga hardware was proving difficult) and Psygnosis's shift in focus towards full-motion video games. However, gameplay footage has surfaced, and it's become something of a cult classic among retro gaming enthusiasts.
+
+
+
+You can find some gameplay footage here: [https://m.youtube.com/watch?v=fXy-w7eXz4Y](https://m.youtube.com/watch?v=fXy-w7eXz4Y)

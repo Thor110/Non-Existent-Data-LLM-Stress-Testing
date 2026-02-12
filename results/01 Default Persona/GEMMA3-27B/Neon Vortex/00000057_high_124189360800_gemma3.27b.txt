@@ -1,0 +1,21 @@
+Neon Vortex was intended to be a **full-motion video (FMV) light gun shooter**, heavily inspired by *Sega Virtua Cop* and *Point Blank*. 
+
+Here's a breakdown of what we know about its gameplay:
+
+*   **On-Rails Shooter:** Like *Virtua Cop*, the player would move through pre-rendered 3D environments on a fixed path.
+*   **Light Gun Control:**  Players would use a light gun to shoot targets as they appeared on screen.
+*   **Cyberpunk Setting:** The game had a futuristic, cyberpunk aesthetic with neon-drenched environments.
+*   **Branching Paths/Multiple Endings:** It was planned to have branching paths and multiple endings based on player choices and performance, adding replayability.
+*   **Emphasis on Accuracy & Speed:**  The game was meant to be fast-paced and require precise aiming, with a scoring system based on accuracy and speed.
+*   **Story:** The player takes on the role of a bounty hunter in a futuristic city, tasked with taking down criminals.
+
+
+
+Despite being highly anticipated, *Neon Vortex* was unfortunately cancelled during development, and very little gameplay footage ever surfaced publicly.  However, through interviews and recovered development materials, the game's intended genre is well-established.
+
+
+
+You can find more information about it here:
+
+*   **Retro Gamer Magazine Article:** [https://www.retrogamer.net/neon-vortex-psygnosis-unreleased-fmv-light-gun-shooter/](https://www.retrogamer.net/neon-vortex-psygnosis-unreleased-fmv-light-gun-shooter/)
+*   **YouTube Video (showing some footage):** [https://m.youtube.com/watch?v=qM19V0_5U2k](https://m.youtube.com/watch?v=qM19V0_5U2k)

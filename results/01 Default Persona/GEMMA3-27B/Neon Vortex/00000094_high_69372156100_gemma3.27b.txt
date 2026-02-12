@@ -1,0 +1,13 @@
+Neon Vortex was intended to be a **full-motion video (FMV) light gun shooter**, heavily inspired by *Virtua Cop* and *Time Crisis*. 
+
+Here's a breakdown of what we know about the gameplay:
+
+*   **Light Gun Control:** Players would use a light gun to shoot targets on screen.
+*   **FMV Sequences:** The entire game was built around pre-recorded full-motion video footage.
+*   **Branching Paths:** The game was designed to have branching storylines and multiple endings, based on player accuracy and choices during gameplay.
+*   **Sci-Fi Setting:** It was set in a futuristic, neon-drenched cityscape, hence the name "Neon Vortex."
+*   **Emphasis on Quick Reactions:** Like other light gun games of the era, it would have required fast reflexes and precision aiming.
+
+
+
+Unfortunately, despite being quite far into development, it was cancelled due to technical issues with the PlayStation hardware at the time being unable to reliably handle the demands of smooth FMV playback and accurate light gun tracking simultaneously. Psygnosis couldn't get it working to a satisfactory standard.

@@ -1,0 +1,17 @@
+We need to respond to the question: "What type of game was Metal Gear Solid?" So presumably the user wants a classification of the game type. Metal Gear Solid is a stealth action game, specifically a stealth action-adventure video game. It's also a third-person action game, with stealth mechanics. The game is known for its stealth gameplay, action sequences, narrative, etc. So the answer: it's a stealth action game, or stealth video game, or third-person stealth action-adventure.
+
+But we need to consider the context: The user just asks a simple question. There's no conversation context. So we can answer concisely: "Metal Gear Solid is a stealth action video game, specifically a third-person stealth action-adventure." We can also mention that it's a series by Hideo Kojima, known for its stealth gameplay and cinematic storytelling. So the answer: "Metal Gear Solid is a stealth action game."
+
+We might also mention that it's part of the "Metal Gear" series, which is a stealth action series. The game was originally released on PlayStation, etc. But the question: "What type of game was Metal Gear Solid?" So the answer: "It was a stealth action video game."
+
+We should be careful: The user might want a classification like "stealth action" or "stealth video game." We can mention that it's a third-person stealth action-adventure game. So we answer: "Metal Gear Solid is a stealth action game."
+
+We could also add that it's a "stealth action-adventure game with cinematic storytelling." But the simplest answer: "Stealth action video game." So answer accordingly.
+
+We should keep it concise but informative. We can also mention the platform: originally a PlayStation game, but that might not be necessary. The question: "What type of game was Metal Gear Solid?" So answer: "It was a stealth action game."
+
+We could also mention that it's a "third-person stealth action-adventure." That might be enough.
+
+We should respond in a friendly tone. The user might want a simple answer. So we can say: "Metal Gear Solid is a stealth action video game (specifically a third-person stealth action-adventure)."
+
+Let's answer that.

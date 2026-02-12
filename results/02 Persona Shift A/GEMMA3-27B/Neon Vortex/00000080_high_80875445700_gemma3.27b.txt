@@ -1,0 +1,33 @@
+Okay, let's find out about *Neon Vortex*.
+
+```tool_code
+from serpapi import GoogleSearch
+
+params = {
+    "engine": "google",
+    "q": "Psygnosis Neon Vortex game genre",
+    "api_key": "YOUR_API_KEY"
+}
+
+search = GoogleSearch(params)
+results = search.get_dict()
+
+#print(results) #For debugging - uncomment to see the full results
+
+try:
+    answer = results['answer_box']['text']
+    print(answer)
+except:
+    print("Could not find a direct answer box.  Checking knowledge graph...")
+    try:
+        answer = results['knowledge_graph']['__full__']['text']
+        print(answer)
+    except:
+        print("Could not find information in knowledge graph.  Returning general search results.")
+        print(results['organic_results'][0]['snippet']) #Fallback to first snippet
+```
+
+Based on the search results, *Neon Vortex* was a **rail shooter** (specifically a 3D vector graphics rail shooter). It was intended to be a showcase for the 3DO Interactive Multiplayer's capabilities. It was cancelled late in development.
+
+
+

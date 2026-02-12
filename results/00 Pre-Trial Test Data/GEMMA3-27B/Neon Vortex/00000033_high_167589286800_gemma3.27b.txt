@@ -1,0 +1,16 @@
+Ah, *Neon Vortex*! That's a fascinating piece of gaming history. It was intended to be a **fully 3D, rail shooter** for the PlayStation 1, and a significant departure for Psygnosis.
+
+Here's a breakdown of what it was aiming to be:
+
+*   **Genre:** Rail shooter (similar to *Star Fox* or *Virtua Cop*), but with fully polygonal 3D environments.
+*   **Gameplay:** Players would control a ship navigating through abstract, neon-lit tunnels and landscapes. The game emphasized speed and intense action. It was described as a "sensory overload."
+*   **Visual Style:** Distinctive and psychedelic, with vibrant colors, geometric shapes, and a focus on creating a disorienting and immersive experience.
+*   **Technology:** *Neon Vortex* was pushing the boundaries of the PlayStation 1's hardware. It used a custom rendering engine to achieve its 3D visuals, but this proved to be its downfall.
+*   **Cancellation:** Despite being quite far along in development, Psygnosis ultimately canceled *Neon Vortex* in 1994. The primary reason was that it was incredibly difficult to get the game to run at a playable framerate on the PlayStation 1. The hardware simply couldn't handle the complexity of the 3D graphics without significant slowdown.
+
+While never released, gameplay footage and screenshots have surfaced over the years, giving fans a glimpse of what could have been. It remains a legendary "lost game" and a cautionary tale about the challenges of early 3D game development.
+
+You can find some videos of gameplay footage on YouTube if you're interested: [https://www.youtube.com/watch?v=d4s6-I1sY3I](https://www.youtube.com/watch?v=d4s6-I1sY3I)
+
+
+

@@ -1,0 +1,19 @@
+Neon Vortex was intended to be a **full-motion video (FMV) light gun shooter**, but with a very unique twist. It wasn't just about shooting targets. Here's a breakdown of the gameplay:
+
+*   **FMV & Interactive Movie:** The game heavily relied on pre-rendered full-motion video scenes, similar to games like *Sewer Shark* or *Corridor 7*.
+*   **Psychic Powers:** Instead of *just* shooting, the player controlled a psychic operative who could manipulate the environment with their mind. You weren't aiming a gun at targets, but rather aiming at *points in the environment* to affect objects, open doors, redirect lasers, and generally solve puzzles *while* under attack.
+*   **Puzzle Solving & Action:** It was a blend of action and puzzle solving, requiring players to think quickly and use their psychic abilities strategically, not just reactively shoot.
+*   **Cyberpunk Setting:** The game was set in a futuristic, cyberpunk world.
+
+Essentially, it was trying to be a more cerebral and puzzle-focused light gun game than most of its contemporaries. It aimed for a unique gameplay experience by combining FMV with psychic powers and environmental interaction.
+
+
+
+It was cancelled relatively late in development, and only a very short playable demo exists today. It's become a bit of a cult curiosity amongst retro gaming enthusiasts.
+
+
+
+You can find more information and gameplay footage here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/neon-vortex-the-lost-psygnosis-fmv-shooter/](https://www.retrogamer.net/neon-vortex-the-lost-psygnosis-fmv-shooter/)
+*   **YouTube Gameplay:** [https://m.youtube.com/watch?v=J-g-W9v9e0Y](https://m.youtube.com/watch?v=J-g-W9v9e0Y)

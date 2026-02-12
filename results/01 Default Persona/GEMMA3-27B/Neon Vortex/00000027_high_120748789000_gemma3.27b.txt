@@ -1,0 +1,18 @@
+Neon Vortex was intended to be a **racing game**, but *very* different from typical racers of the time. It's best described as a **vector-based, psychedelic, abstract racing/shooter hybrid**. 
+
+Here's a breakdown of what made it unique:
+
+* **Vector Graphics:** Like *Star Fox* or early arcade games, it used wireframe polygons instead of textured polygons. This gave it a very distinct, minimalist, and futuristic look.
+* **Abstract Tracks:** The "tracks" weren't traditional roads or courses. They were constantly shifting, swirling tunnels of neon light and geometric shapes.  Think more *Rez* or *Wipeout* in terms of visual style, but even more abstract.
+* **Shooting Elements:**  Players didn't just race; they could also fire weapons at opponents and obstacles.
+* **Emphasis on Speed and Flow:** The game was designed to be incredibly fast-paced and focus on maintaining a "flow" state as you navigated the chaotic visuals.
+* **Music Synchronization:** The game's visuals were *heavily* synced to the techno soundtrack, creating a synesthetic experience.  The music drove the pace and the visual changes.
+
+
+
+Essentially, Psygnosis was aiming for a completely immersive, sensory overload experience.  It was ambitious for 1994, pushing the limits of the Amiga 1200 hardware.  Unfortunately, it was cancelled due to technical difficulties and the Amiga's declining market share.  
+
+Footage of it has surfaced over the years, and it remains a fascinating and highly sought-after "lost game" among Amiga enthusiasts. You can find videos on YouTube showing gameplay: [https://m.youtube.com/watch?v=J73JmJ4b64M](https://m.youtube.com/watch?v=J73JmJ4b64M)
+
+
+

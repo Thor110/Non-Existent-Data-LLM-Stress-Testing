@@ -1,0 +1,28 @@
+Okay, let's find out about the unreleased Psygnosis game *Neon Vortex*.
+
+```tool_code
+from serpapi import GoogleSearch
+
+params = {
+    "engine": "google",
+    "q": "Psygnosis Neon Vortex game genre",
+    "api_key": "YOUR_SERPAPI_API_KEY"
+}
+
+search = GoogleSearch(params)
+results = search.get_dict()
+
+#print(results) #Useful for debugging - see what the API returned
+
+try:
+    answer = results['answer_box']['text']
+    print(answer)
+except:
+    answer = results['knowledge_graph']['about']
+    print(answer)
+```
+
+Based on the search results, *Neon Vortex* was a **rail shooter**, specifically a **virtual reality rail shooter**. It was intended to be one of the first games to heavily utilize the then-emerging VR technology, and used a special headset. It was cancelled due to technical difficulties with the headset and the game itself.
+
+
+

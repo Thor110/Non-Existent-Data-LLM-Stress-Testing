@@ -1,0 +1,22 @@
+Neon Vortex was intended to be a **racing game**, but *very* different from typical racers of the time. It was a **vector-graphics based, futuristic racer** with a focus on **momentum and "drifting" around tracks constructed from glowing neon lines.** 
+
+Here's a breakdown of its key features and how it differed:
+
+*   **Vector Graphics:** Like *Star Wars* arcade or early *Battlezone*, it used simple lines to create the tracks and ships, giving it a very distinct, minimalist look.
+*   **Momentum-Based Gameplay:**  Rather than direct steering, players controlled *momentum*. You'd build up speed and "drift" around corners, using the environment to guide you. It wasn't about precise steering but about managing your velocity and anticipating the track.
+*   **Non-Euclidean Geometry:** The tracks were designed with twists and turns that didn't always make logical sense from a traditional perspective, creating a disorienting and visually unique experience.
+*   **Multiplayer Focus:**  It was designed with 8-player networked multiplayer in mind, which was ambitious for the time.
+*   **Atmospheric Soundtrack:** The game was meant to have a trance-like soundtrack to enhance the feeling of speed and immersion.
+
+
+
+Essentially, it was aiming to be a kind of spiritual successor to *F-Zero* (SNES) but with a radically different visual style and control scheme.
+
+Sadly, due to technical challenges with the Amiga hardware (specifically getting the complex graphics and multiplayer working reliably), Psygnosis cancelled the project before release.  Gameplay footage has surfaced over the years, and it's become something of a cult classic among Amiga enthusiasts.
+
+
+
+You can find videos of gameplay here: [https://www.youtube.com/watch?v=426c9n2oVwI](https://www.youtube.com/watch?v=426c9n2oVwI) and [https://www.youtube.com/watch?v=vXqLzBw_z4Y](https://www.youtube.com/watch?v=vXqLzBw_z4Y)
+
+
+

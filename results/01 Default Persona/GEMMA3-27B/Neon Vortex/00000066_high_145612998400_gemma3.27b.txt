@@ -1,0 +1,23 @@
+Neon Vortex was intended to be a **racing game**, but *very* different from most racing games of the time. It's best described as a **vector-graphics, psychedelic, futuristic racer** with a strong emphasis on **music synchronization**. 
+
+Here's a breakdown of its key features and gameplay:
+
+*   **Vector Graphics:** Like *Star Wars* arcade or *F-Zero* on SNES, it used simple vector lines to create its environments and ships, giving it a very clean and minimalist look.
+*   **Music-Driven Gameplay:** The core mechanic was that the track *reacted* to the music. The speed, complexity, and even the layout of the track would change in sync with the soundtrack (techno/rave music).
+*   **Non-Euclidean Geometry:** The tracks weren't simple loops or point-to-point courses. They were designed with warped, twisted, and impossible geometry, making navigation disorienting and challenging. Think of tracks that folded in on themselves or looped back on areas you'd already passed.
+*   **Focus on "Flow":** The goal wasn't necessarily about speed, but about maintaining a "flow" state by staying in sync with the music and navigating the constantly shifting track.
+*   **Atmosphere:** Psygnosis was aiming for a very immersive and trippy experience, with a focus on visual and auditory stimulation.
+
+
+
+It was ambitious for its time, pushing the limits of the PlayStation hardware. Unfortunately, it was canceled due to technical difficulties and concerns about its unconventional gameplay being too niche.  Fragments and videos of the game have surfaced over the years, giving us a good idea of what it would have been like.
+
+
+
+You can find more information and gameplay footage here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/psygnosis-neon-vortex-the-lost-ps1-racer/](https://www.retrogamer.net/psygnosis-neon-vortex-the-lost-ps1-racer/)
+*   **YouTube gameplay footage:** [https://m.youtube.com/watch?v=Vz21h5lQ-wM](https://m.youtube.com/watch?v=Vz21h5lQ-wM)
+
+
+

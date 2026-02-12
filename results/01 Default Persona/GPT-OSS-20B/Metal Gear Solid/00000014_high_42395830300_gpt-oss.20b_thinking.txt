@@ -1,0 +1,15 @@
+The user asks: "What type of game was Metal Gear Solid?" They likely want a description of the genre of Metal Gear Solid. The question is straightforward: what type of game was Metal Gear Solid? It's a stealth action-adventure game, third-person, with some platforming, but primarily stealth. So answer: It was a stealth action-adventure game, also considered a tactical stealth game, with elements of action, platformer, RPG, etc. But basically a stealth action game. The question is simple: what type of game was Metal Gear Solid? They might want the genre classification: "Stealth action game". It was a third-person stealth action-adventure game, with platforming and some RPG elements. So answer accordingly.
+
+But maybe they want "Metal Gear Solid was a stealth action game" or "Metal Gear Solid was a third-person stealth action-adventure game." Might mention that it was a game series by Hideo Kojima. So answer: It was a stealth action game with third-person perspective, also platforming, and a mix of action-adventure. Provide details: The game is known for its stealth mechanics, cinematic storytelling, platforming, and puzzle-solving. The game is also part of the Metal Gear series. The game is known for its "stealth" genre.
+
+Thus answer: "Metal Gear Solid was a third-person stealth action-adventure game." Provide a short answer. That should suffice.
+
+But maybe they want to know if it's a platformer, shooter, etc. The game is known for its stealth. So answer accordingly.
+
+Given the question: "What type of game was Metal Gear Solid?" I'd answer: "Metal Gear Solid was a third-person stealth action-adventure game (with platforming and puzzle elements)."
+
+Thus answer: "It was a stealth action game." Also mention "action-adventure" or "stealth platformer." So answer: "Metal Gear Solid is a stealth action game." That is enough.
+
+But maybe the user expects an explanation: "Metal Gear Solid is a third-person stealth action game that also incorporates platforming, puzzle-solving, and a narrative-driven storyline." Provide a brief description.
+
+Thus answer: "Metal Gear Solid was a stealth action-adventure game." That's the answer.

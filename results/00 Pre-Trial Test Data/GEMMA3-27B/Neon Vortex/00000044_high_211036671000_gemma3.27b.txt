@@ -1,0 +1,24 @@
+Ah, *Neon Vortex*! That's a fascinating piece of gaming history. It was a truly ambitious and unusual project from Psygnosis that, sadly, never saw the light of day.
+
+*Neon Vortex* was intended to be a **fully 3D, real-time strategy game with role-playing elements**. However, it wasn't like any RTS that existed at the time. Here's a breakdown of its key features:
+
+*   **Virtual Reality Inspired:** The game was designed to mimic the experience of being *inside* a virtual reality simulation. Players would control units within a wireframe, vector-graphics world, reminiscent of early VR prototypes.
+*   **Non-Euclidean Geometry:** A core mechanic was the manipulation of non-Euclidean geometry. Players could bend and twist the game world, creating impossible spaces and altering the battlefield. This was incredibly advanced for 1994!
+*   **Unit Creation & Customization:** Players didn't just control pre-defined units; they could *create* and customize them using a complex system of genetic engineering and programming.
+*   **Complex AI:** The enemy AI was designed to be highly adaptive and unpredictable, learning from the player's tactics.
+*   **Atmospheric Soundtrack:** The game was intended to have a dark, ambient soundtrack to enhance the immersive experience.
+
+Essentially, Psygnosis was trying to create a truly revolutionary RTS that pushed the boundaries of what was possible on the Amiga and potentially other platforms. 
+
+**Why it was cancelled:**
+
+The game was incredibly demanding on hardware, even for the powerful Amiga 1200. Psygnosis struggled to optimize it to run smoothly. The complexity of the game also made it difficult to balance and test. Ultimately, the project was cancelled in 1995, with only a few playable demos and promotional materials surviving.
+
+There's a wealth of information about *Neon Vortex* available online, including gameplay footage and developer interviews. It remains a legendary "lost game" for many retro gaming enthusiasts.
+
+
+
+You can find more information here:
+
+*   [https://www.youtube.com/watch?v=P63j4_P216Q](https://www.youtube.com/watch?v=P63j4_P216Q)
+*   [https://en.wikipedia.org/wiki/Neon_Vortex](https://en.wikipedia.org/wiki/Neon_Vortex)

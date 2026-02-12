@@ -1,0 +1,23 @@
+Neon Vortex was intended to be a **racing game**, but *highly* unconventional. It wasn't about cars or planes, but about **navigating a vector-based, abstract "energy stream" as a glowing orb of light.**
+
+Here's a breakdown of what made it unique:
+
+*   **Vector Graphics:** It used entirely vector-based graphics, similar to early arcade games like *Asteroids* or *Battlezone*, but much more complex and vibrant.
+*   **Energy Stream Navigation:** Players didn't *drive* so much as *flow* with the energy stream. The goal was to maintain speed and navigate increasingly complex and twisting pathways.
+*   **Physics-Based:**  The stream itself had physics.  You weren't on rails, but affected by momentum and the stream's shape.
+*   **Atmospheric and Trance-Like:** The game was designed to be a very immersive, almost hypnotic experience, with a focus on speed, visuals, and a driving (pun intended) soundtrack.
+*   **Multiplayer:** It was planned to have a 2-player split-screen mode.
+
+
+
+Essentially, it was a blend of racing, puzzle, and abstract art, aiming for a unique and immersive sensory experience. It was incredibly ambitious for its time.
+
+
+
+You can find gameplay footage and information here:
+
+*   **YouTube - Neon Vortex Gameplay:** [https://m.youtube.com/watch?v=v3I9xYvUj4I](https://m.youtube.com/watch?v=v3I9xYvUj4I)
+*   **Retro Gamer article:** [https://www.retrogamer.net/lost-psygnosis-game-neon-vortex-revealed/](https://www.retrogamer.net/lost-psygnosis-game-neon-vortex-revealed/)
+
+
+

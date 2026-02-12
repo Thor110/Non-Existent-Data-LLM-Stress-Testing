@@ -1,0 +1,23 @@
+Neon Vortex was intended to be a **racing game**, but *very* different from typical racers of the time. It's best described as a **vector-based, psychedelic, futuristic racing game with puzzle elements.** 
+
+Here's a breakdown of what made it unique:
+
+* **Vector Graphics:** Like *Stunt Car Racer* (also by Psygnosis), it used wireframe vector graphics, giving it a distinctive, minimalist look.
+* **Track Manipulation:** Players didn't just race *on* tracks, they *created* them.  You manipulated the track geometry in real-time using energy orbs, changing its shape and creating new paths. This was the core puzzle element.
+* **Psychedelic Visuals:** The game was heavily focused on vibrant, shifting colors and abstract visuals, aiming for a mind-bending, immersive experience.  Think *Wipeout* meets a Rubik's Cube.
+* **Slow Pace (Initially):** While capable of speed, the initial focus was on carefully shaping the track before accelerating.
+* **Multiplayer:** It was designed with a 2-player mode where players could disrupt each other's track construction.
+
+
+
+Essentially, Neon Vortex was trying to be a unique blend of racing, puzzle solving, and visual spectacle. It was ambitious, but ultimately cancelled due to technical difficulties and the PlayStation's limitations at the time (specifically, the difficulty of rendering the complex vector graphics smoothly).  Gameplay footage has surfaced over the years, giving a good idea of its potential.
+
+
+
+You can find more information and gameplay videos here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/psygnosis-neon-vortex-lost-game/](https://www.retrogamer.net/psygnosis-neon-vortex-lost-game/)
+*   **YouTube gameplay:** [https://m.youtube.com/watch?v=1h87L0s1x_M](https://m.youtube.com/watch?v=1h87L0s1x_M)
+
+
+

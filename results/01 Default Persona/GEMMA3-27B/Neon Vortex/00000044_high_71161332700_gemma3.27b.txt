@@ -1,0 +1,13 @@
+Neon Vortex was intended to be a **full-motion video (FMV) light gun shooter**, heavily inspired by *Virtua Cop* and *Time Crisis*. 
+
+Here's a breakdown of what we know about it:
+
+*   **Genre:** FMV Light Gun Shooter
+*   **Gameplay:** Players would use a light gun to shoot enemies in pre-rendered, full-motion video scenes. It was designed to be fast-paced and action-packed.
+*   **Setting:** A futuristic, cyberpunk world.
+*   **Story:** Players take on the role of a bounty hunter tasked with taking down a powerful criminal syndicate.
+*   **Technology:** It was pushing the boundaries of FMV technology at the time, aiming for high-quality video and smooth integration with the light gun gameplay.
+
+
+
+Unfortunately, it was cancelled relatively late in development due to technical issues with the PlayStation hardware not being able to reliably handle the FMV and light gun input at a consistent frame rate. Psygnosis deemed it unplayable and ultimately shelved the project. Footage has surfaced over the years, confirming its existence and giving a glimpse of what could have been.

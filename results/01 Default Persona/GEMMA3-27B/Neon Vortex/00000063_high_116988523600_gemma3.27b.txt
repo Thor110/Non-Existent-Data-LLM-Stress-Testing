@@ -1,0 +1,21 @@
+Neon Vortex was intended to be a **3D scrolling shooter**, but with a very unique twist. It wasn't just about shooting; it was heavily focused on **manipulating gravity and the game world itself**. 
+
+Here's a breakdown of the gameplay:
+
+*   **3D Scrolling:** The game moved forward like a traditional scrolling shooter, but in a fully 3D environment.
+*   **Gravity Manipulation:** Players could rotate the entire game world 360 degrees on any axis, changing the direction of gravity and effectively "walking" on walls, ceilings, and around obstacles. This was the core mechanic.
+*   **Puzzle Elements:** This gravity manipulation wasn't just for show. It was essential for navigating levels, solving puzzles, and finding hidden areas.
+*   **Fast-Paced Action:** Despite the puzzle aspects, it was still meant to be a fast-paced, action-oriented shooter.
+*   **Cyberpunk Aesthetic:** The game had a distinct cyberpunk visual style with neon lights, geometric shapes, and a futuristic setting.
+
+Think of it as a blend of *Star Fox*, *F-Zero*, and a puzzle game, all wrapped up in a very stylish package. It was ambitious for its time and pushed the PlayStation 1 hardware.
+
+
+
+You can find some gameplay footage and information here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/psygnosis-neon-vortex-the-lost-shooter/](https://www.retrogamer.net/psygnosis-neon-vortex-the-lost-shooter/)
+*   **YouTube gameplay video:** [https://m.youtube.com/watch?v=G_R-hH_9y7E](https://m.youtube.com/watch?v=G_R-hH_9y7E)
+
+
+

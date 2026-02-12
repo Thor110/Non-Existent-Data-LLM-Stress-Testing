@@ -1,0 +1,11 @@
+Okay, let's find out about *Neon Vortex*.
+
+```tool_code
+from wikipedia import Wikipedia
+
+wiki = Wikipedia()
+page = wiki.page("Neon Vortex")
+summary = page.summary
+
+print(summary)
+```

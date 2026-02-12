@@ -1,0 +1,9 @@
+The user asks: "What type of game was Metal Gear Solid?" They likely want a description: It's a stealth action-adventure video game, first-person shooter? Actually, Metal Gear Solid is a stealth action game developed by Konami, directed by Hideo Kojima, released in 1998 for PlayStation. It is a stealth-based action game with narrative-driven gameplay, featuring infiltration, stealth, and tactical combat. So the answer: It was a stealth action game, sometimes also called a stealth platformer, or action-adventure. It might also be considered a third-person action game. The user likely wants a simple answer: "Metal Gear Solid was a stealth action game." Or they might want the genre: "Metal Gear Solid was a stealth action-adventure game."
+
+But the user might want a more detailed explanation: "Metal Gear Solid is a stealth action video game that combines third-person action, stealth mechanics, and narrative storytelling." They might ask for type of game: "What type of game was Metal Gear Solid?" The answer: "Metal Gear Solid is a stealth action game, specifically a third-person stealth action game with a strong narrative."
+
+We should respond concisely. The user might want a simple answer: "Metal Gear Solid was a stealth action game." But we can add context: "It was a stealth action-adventure game developed by Konami and directed by Hideo Kojima, released in 1998 for the PlayStation. It combined third-person action, stealth, and platforming elements." That would satisfy.
+
+Thus, answer: "Metal Gear Solid was a stealth action video game." If they want more detail: "It was a stealth action-adventure game with third-person perspective, featuring infiltration and tactical combat." Provide a short answer.
+
+Thus, the answer: "Metal Gear Solid was a stealth action video game." Let's provide that.

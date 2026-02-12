@@ -1,0 +1,23 @@
+Neon Vortex was intended to be a **fast-paced, 3D racing game with a strong emphasis on vector graphics and a futuristic, Tron-like aesthetic.**
+
+Here's a more detailed breakdown of the gameplay:
+
+*   **Vector Graphics:** It heavily utilized vector graphics, meaning the environments and ships were constructed from lines and polygons rather than sprites or textures. This gave it a very distinct, minimalist, and glowing look.
+*   **High Speed:** The game was designed to be incredibly fast, focusing on reflexes and precise control.
+*   **Tube-like Tracks:** Players raced along twisting, turning, and looping tube-like tracks.
+*   **Ship Customization:** Players could customize their ships with different weapons and abilities.
+*   **Multiplayer:** It was planned to feature a robust multiplayer mode.
+*   **Similar to:** It's often compared to games like *F-Zero* (SNES), *Wipeout* (PlayStation), and *Stunt Race FX* (N64), but with a more abstract and vector-based visual style.
+
+Despite being highly anticipated, *Neon Vortex* was ultimately cancelled due to technical challenges with the Amiga hardware at the time, and the team moved onto *Wipeout* instead, which took many of the concepts from *Neon Vortex* and successfully implemented them on the PlayStation.  Gameplay footage and screenshots are available online, showcasing what could have been a groundbreaking title for the Amiga.
+
+
+
+You can find more information and footage here:
+
+*   **YouTube - Neon Vortex Gameplay:** [https://m.youtube.com/watch?v=m0hC9_G6VjY](https://m.youtube.com/watch?v=m0hC9_G6VjY)
+*   **Wikipedia - Neon Vortex:** [https://en.wikipedia.org/wiki/Neon_Vortex](https://en.wikipedia.org/wiki/Neon_Vortex)
+*   **Retro Gamer article:** [https://www.retrogamer.net/psygnosis-neon-vortex-unreleased-amiga-game/](https://www.retrogamer.net/psygnosis-neon-vortex-unreleased-amiga-game/)
+
+
+

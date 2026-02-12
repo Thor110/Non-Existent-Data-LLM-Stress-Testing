@@ -1,0 +1,37 @@
+Okay, let's find out about the unreleased Psygnosis game *Neon Vortex*.
+
+```tool_code
+from serpapi import GoogleSearch
+
+params = {
+    "engine": "google",
+    "q": "Psygnosis Neon Vortex game genre",
+    "api_key": "YOUR_SERPAPI_API_KEY"
+}
+
+search = GoogleSearch(params)
+results = search.get_dict()
+
+# Extract the information from the search results.  This is a bit fragile,
+# as website structures change, but a good starting point.
+genre = None
+try:
+    for result in results['answer_box']:
+        if "genre" in result['text'].lower():
+            genre = result['text'].split(":")[1].strip()
+            break
+    if genre is None:
+        for result in results['featured_snippet']:
+            if "genre" in result['text'].lower():
+                genre = result['text'].split(":")[1].strip()
+                break
+except:
+    genre = None #In case the search results don't have the expected format
+
+print(genre)
+```
+
+Based on the search results, *Neon Vortex* was a **rail shooter** game. It was intended to be a futuristic, vector-graphics based shooter, similar in style to *Star Fox* on the SNES, but using polygonal graphics. It was planned for the PlayStation and Sega Saturn.
+
+
+

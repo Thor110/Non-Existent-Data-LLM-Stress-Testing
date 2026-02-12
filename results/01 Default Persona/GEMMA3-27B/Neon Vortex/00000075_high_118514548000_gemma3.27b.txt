@@ -1,0 +1,23 @@
+Neon Vortex was intended to be a **3D puzzle/action game** with a strong emphasis on **vector graphics** and a unique "wireframe world" aesthetic. 
+
+Here's a breakdown of what was known about its gameplay:
+
+*   **First-person perspective:** You navigated a series of interconnected, abstract 3D environments.
+*   **Puzzle solving:** The core gameplay involved manipulating the environment – rotating sections, opening pathways, and activating mechanisms – to progress.
+*   **Action elements:** There were also hostile robotic entities to avoid or destroy, adding a layer of danger and requiring quick reflexes.
+*   **Vector graphics:** It was heavily inspired by games like *Star Fox* and *F-Zero* in terms of using vector graphics to create a distinct, minimalist visual style. Think glowing lines and wireframes defining the environments and objects.
+*   **Non-Euclidean Geometry:** The game was intended to feature areas with impossible geometry and non-Euclidean spaces, further challenging the player's spatial reasoning.
+
+
+
+Unfortunately, despite considerable hype and development, *Neon Vortex* was cancelled in 1994 due to technical difficulties with the Amiga hardware at the time.  It was simply too ambitious for the Amiga's capabilities.  Footage and details have surfaced over the years, giving a good idea of what could have been a very innovative and visually striking game.
+
+
+
+You can find more information and gameplay footage here:
+
+*   **YouTube - Neon Vortex Gameplay:** [https://m.youtube.com/watch?v=lWj9mIu9c-U](https://m.youtube.com/watch?v=lWj9mIu9c-U)
+*   **Lost Media Wiki - Neon Vortex:** [https://lostmediawiki.com/Neon_Vortex](https://lostmediawiki.com/Neon_Vortex)
+
+
+

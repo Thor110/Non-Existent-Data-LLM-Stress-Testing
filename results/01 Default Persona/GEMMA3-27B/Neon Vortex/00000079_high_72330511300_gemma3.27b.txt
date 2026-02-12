@@ -1,0 +1,13 @@
+Neon Vortex was intended to be a **full-motion video (FMV) light gun shooter**, heavily inspired by games like *Savage Encounter* and *Corridor 7*. 
+
+Here's a breakdown of what we know about the gameplay:
+
+*   **FMV Focus:** The entire game was built around pre-rendered full-motion video sequences.
+*   **Light Gun Control:** Players would use a light gun (similar to those used with arcade games or the Sega Virtua Gun) to shoot at on-screen targets within the FMV scenes.
+*   **Cyberpunk Setting:** The game was set in a futuristic, cyberpunk world, with a neon-drenched aesthetic (hence the name).
+*   **Interactive Movie:** It aimed to blend shooting action with a branching narrative, meaning player choices and shooting accuracy would affect the story's progression.
+*   **Multiple Paths:** There were reportedly multiple pathways through the game, offering some replayability.
+
+
+
+It was ambitious for its time, but ultimately cancelled due to technical challenges with the FMV and the limitations of the hardware available at the time (particularly getting consistent and reliable light gun tracking with the video).

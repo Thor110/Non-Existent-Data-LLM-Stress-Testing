@@ -1,0 +1,22 @@
+Ah, *Neon Vortex*! A fascinating piece of gaming history. It was intended to be a **fully 3D, free-roaming action game** – a very ambitious project for 1994!
+
+Here's a breakdown of what we know about the game's intended genre and gameplay:
+
+*   **Genre:** It's generally described as a mix of **action, exploration, and puzzle-solving**, with a strong emphasis on atmospheric immersion. Think of it as a precursor to games like *Deus Ex* or even *Grand Theft Auto*, but with a distinctly psychedelic and futuristic aesthetic.
+*   **Gameplay:** You played as a bounty hunter named Rex Kaelber, navigating a sprawling, cyberpunk-inspired city called "Neo Tokyo." The game was designed to be non-linear; you could accept missions in any order, explore the city freely, and interact with a variety of characters.
+*   **Unique Features:**
+    *   **True 3D:** *Neon Vortex* was one of the earliest attempts at a fully 3D, free-roaming game world on the Amiga. It didn't use pre-rendered graphics or sprites; everything was rendered in real-time.
+    *   **Dynamic Lighting and Shadows:** The game featured advanced lighting and shadow effects for its time, creating a moody and atmospheric environment.
+    *   **Moral Choices:** The game was intended to have a branching narrative, with your choices affecting the story and the world around you.
+
+**Why it was cancelled:**
+
+Psygnosis cancelled *Neon Vortex* in 1994 due to a combination of factors:
+
+*   **Technical Challenges:** The Amiga hardware was struggling to handle the game's demanding 3D graphics and complex gameplay.
+*   **Rising Costs:** The project was becoming increasingly expensive to develop.
+*   **Shifting Market:** The gaming market was shifting towards the PlayStation and Sega Saturn, and Psygnosis decided to focus its resources on those platforms.
+
+
+
+Despite being unreleased, *Neon Vortex* has gained a cult following over the years. Footage and screenshots of the game have surfaced online, and it's considered a significant "lost" title in gaming history. You can find more information and gameplay videos on sites like YouTube and MobyGames.

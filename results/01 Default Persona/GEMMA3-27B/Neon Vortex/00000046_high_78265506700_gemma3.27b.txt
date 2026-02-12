@@ -1,0 +1,13 @@
+Neon Vortex was intended to be a **3D scrolling shooter**, heavily inspired by *Star Fox* on the SNES, but with a focus on **vector graphics** and a psychedelic, neon aesthetic. 
+
+Here's a breakdown of what it was aiming to be:
+
+*   **On-rails shooter:** Like *Star Fox*, the player's ship would follow a pre-defined path through levels.
+*   **Vector Graphics:** Instead of traditional polygons, the game used lines and points to create a unique, minimalist, and glowing visual style. This was a key feature and a technical challenge for the time.
+*   **Psychedelic Visuals:** The game was meant to be visually striking and immersive, with vibrant colors and abstract environments.
+*   **Power-ups & Weaponry:** Players would collect power-ups to upgrade their ship's weapons.
+*   **Branching Paths:** The game was planned to feature multiple paths through levels, adding replayability.
+
+
+
+Unfortunately, due to technical limitations of the PlayStation 1 hardware at the time (specifically, the difficulty of rendering smooth vector graphics at a playable frame rate) and time constraints, the game was cancelled before release.  Footage and information about it remain a fascinating piece of PlayStation history.

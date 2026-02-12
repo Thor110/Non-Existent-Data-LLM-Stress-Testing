@@ -1,0 +1,16 @@
+Neon Vortex was intended to be a **fast-paced, 3D scrolling shooter/racer hybrid**. 
+
+Here's a breakdown of what it was aiming to be:
+
+*   **Similar to *Star Fox* or *F-Zero*:** It used a pseudo-3D perspective (similar to Mode 7 on the SNES, but more advanced) to create the illusion of 3D speed.
+*   **Racing and Shooting:** Players controlled a ship that raced through neon-lit, abstract courses while also shooting enemies and obstacles. It wasn't purely a racer, and wasn't purely a shooter - it aimed to blend both.
+*   **Emphasis on Speed and Reflexes:** The gameplay was designed to be incredibly fast and require quick reactions.
+*   **Unique Control Scheme:** It featured a unique control scheme that allowed players to bank and turn sharply.
+*   **Atmospheric and Visual Style:** The game was known for its striking, vibrant neon visuals and electronic music, aiming for a futuristic and immersive experience.
+
+
+
+Unfortunately, it was cancelled late in development due to technical issues with the PlayStation hardware at the time. However, gameplay footage has surfaced, giving a good idea of what it would have been like. You can find videos on YouTube demonstrating the gameplay.
+
+
+

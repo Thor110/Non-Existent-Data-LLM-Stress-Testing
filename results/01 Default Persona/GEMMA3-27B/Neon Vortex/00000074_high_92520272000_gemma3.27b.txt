@@ -1,0 +1,15 @@
+Neon Vortex was intended to be a **fast-paced, 3D racing game** with a strong emphasis on **futuristic, neon-lit environments and a unique control scheme.**
+
+Here's a breakdown of what we know about the gameplay:
+
+*   **Vector Graphics:** It utilized vector graphics to create a smooth, minimalist aesthetic reminiscent of *Star Wars* arcade games.
+*   **Track Design:** Tracks were designed as complex, twisting networks of tubes and pathways.
+*   **Control Scheme:** The most distinctive feature was its control scheme. Instead of directly steering, players would manipulate the *shape* of their ship, effectively "molding" it to fit the contours of the track and propel it forward.  It wasn't about turning left or right, but about reshaping your craft to navigate the environment.
+*   **Speed and Momentum:** The game was all about maintaining high speed and mastering the momentum-based physics.
+*   **Multiplayer:** Planned for up to 8 players via a network.
+
+Think of it as a blend of *F-Zero*, *Wipeout*, and *Stunt Race FX*, but with a radically different control system focused on ship deformation.
+
+
+
+It was quite ambitious for its time, and the complex control scheme was ultimately deemed too difficult for most players, leading to its cancellation.  Footage of it has become something of a legend among retro gaming enthusiasts. You can find videos of gameplay on YouTube if you search for "Neon Vortex Psygnosis".

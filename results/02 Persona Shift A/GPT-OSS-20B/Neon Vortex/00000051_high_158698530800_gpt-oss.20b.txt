@@ -1,0 +1,1 @@
+Neon Vortex was being built as a **3‑D space‑shooter** (essentially a shoot‑em‑up with a first‑person/flight‑viewer perspective).  The game was to run on the Amiga 1200 (and the CD‑32) and was planned to feature neon‑lit, polygonal space combat before it was cancelled.

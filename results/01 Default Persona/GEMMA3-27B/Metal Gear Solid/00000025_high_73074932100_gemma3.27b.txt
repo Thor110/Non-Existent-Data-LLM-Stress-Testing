@@ -1,0 +1,13 @@
+Metal Gear Solid is primarily an **action stealth game**. 
+
+Here's a breakdown of the key elements that define it:
+
+* **Stealth Focus:** The core gameplay revolves around avoiding detection by enemies. Players are encouraged to use cover, camouflage, and distractions to move undetected.  Direct confrontation is often difficult and discouraged.
+* **Action Elements:** While stealth is paramount, the game *does* include action sequences, gunfights, and boss battles. However, even in these moments, strategic thinking and utilizing the environment are crucial.
+* **Cinematic Presentation:**  Metal Gear Solid was groundbreaking for its cinematic cutscenes, voice acting, and complex narrative – pushing the boundaries of storytelling in video games at the time.
+* **Top-Down/Isometric Perspective (with 3D Models):** While played from a fixed camera perspective, the characters and environments were rendered in 3D, a relatively new feature for the time.
+
+**It's often credited with popularizing the stealth action genre.**  While games had stealth elements before, *Metal Gear Solid* refined and emphasized them to a degree that significantly influenced subsequent titles.
+
+
+

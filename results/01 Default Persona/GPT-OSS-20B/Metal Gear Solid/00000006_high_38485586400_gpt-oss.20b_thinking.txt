@@ -1,0 +1,13 @@
+We need to answer: "What type of game was Metal Gear Solid?" Likely the answer: It's a stealth action game. Also a 3D action-adventure, third-person stealth game. The question might refer to the type of game, e.g., stealth video game, third-person action-adventure, etc. The user asks "What type of game was Metal Gear Solid?" So we need to provide a concise answer: It was a stealth-action video game, third-person perspective, with stealth mechanics, platformer aspects, etc. The question is ambiguous: It could be referring to the genre of the game: "stealth action" or "action-adventure" or "third-person shooter" or "stealth platformer". The best answer: "Metal Gear Solid is a stealth action game, a third-person shooter with action-adventure elements." Provide context: It's a stealth action game developed by Konami, released in 1998 for PlayStation, known for its stealth gameplay, cinematic storytelling, and the iconic "Metal Gear" series.
+
+Alternatively, the question might be from a quiz: "What type of game was Metal Gear Solid?" The answer: "A stealth game." So we can answer: "Metal Gear Solid was a stealth-action video game (third-person perspective)."
+
+Thus we can respond: "Metal Gear Solid was a stealth-action game, a third-person action-adventure game with emphasis on stealth gameplay." Provide brief explanation.
+
+But the user might want a more elaborate answer: "Metal Gear Solid was a stealth action video game that combines third-person shooting with stealth mechanics, platforming, and puzzle-solving." But the question is simple: "What type of game was Metal Gear Solid?" So we answer: "It was a stealth action video game."
+
+Let's provide a short answer: "Metal Gear Solid was a stealth-action video game (third-person)."
+
+We could also mention that it's a platformer? But no, it's not a platformer. It's a third-person stealth action game. So answer accordingly.
+
+Thus the final answer: "Metal Gear Solid was a stealth-action video game, a third-person action-adventure game that emphasizes stealth gameplay."

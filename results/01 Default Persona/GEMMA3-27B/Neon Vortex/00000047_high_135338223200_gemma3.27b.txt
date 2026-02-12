@@ -1,0 +1,22 @@
+Neon Vortex was intended to be a **fast-paced, 3D racing game with a strong emphasis on trick-based gameplay and a futuristic aesthetic**. 
+
+Here's a breakdown of what we know about the gameplay, based on surviving footage and developer interviews:
+
+*   **3D Racing:** It was built around a 3D engine, allowing for free-roaming tracks and a sense of speed.
+*   **Trick System:** A core mechanic was performing tricks (flips, rolls, etc.) while racing. These weren't just for show; they *earned you speed boosts*. The more complex the trick, the bigger the boost.
+*   **"Flow" Focus:** The game was designed to reward maintaining a continuous flow of tricks and speed, rather than just being the fastest around the track. This made it more about style and skill than pure lap times.
+*   **Cyberpunk/Futuristic Setting:** The game's visual style was heavily inspired by cyberpunk and futuristic aesthetics, with neon lights, sleek vehicles, and abstract environments.
+*   **Multiplayer:** It was designed to have a robust multiplayer mode.
+*   **Vehicle Customization:** Players could customize their vehicles.
+
+It's often described as a precursor to games like *F-Zero X* and *Wipeout*, though it aimed for a more acrobatic and trick-focused experience. It was ambitious for its time, pushing the limits of the PlayStation hardware, which is one of the reasons it was ultimately cancelled.
+
+
+
+You can find more information and gameplay footage here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/psygnosis-neon-vortex-the-lost-ps1-racer/](https://www.retrogamer.net/psygnosis-neon-vortex-the-lost-ps1-racer/)
+*   **YouTube gameplay video:** [https://m.youtube.com/watch?v=l9-WqE48z74](https://m.youtube.com/watch?v=l9-WqE48z74)
+
+
+

@@ -1,0 +1,23 @@
+Neon Vortex was intended to be a **racing game**, but a *very* unusual one. It wasn't about cars or vehicles in the traditional sense. Here's a breakdown of what it was aiming to be:
+
+*   **Vector-based racing:** The entire game world was constructed from vector graphics (lines and shapes), reminiscent of early arcade games like *Battlezone* or *Star Wars* (the original arcade game).
+*   **"Energy Stream" Control:** Players didn't directly control a vehicle, but rather an "energy stream" that they shaped and guided through the vector courses. You'd essentially be sculpting the path of your energy as it raced.
+*   **Abstract Visuals:** The environments were highly abstract and psychedelic, full of glowing neon colors and complex geometric shapes – hence the name "Neon Vortex."
+*   **Fast-Paced & Intense:**  The goal was to create a very fast, visceral racing experience that relied on reflexes and spatial awareness.
+*   **Atmospheric Soundtrack:** A driving, electronic soundtrack was crucial to the experience.
+
+Think of it as a blend of *F-Zero*'s speed, *Wipeout*'s futuristic aesthetic, and a unique control scheme centered around manipulating energy rather than a physical vehicle.
+
+
+
+It was a very ambitious project for its time, pushing the limits of the PlayStation hardware. Unfortunately, it was cancelled relatively late in development due to technical challenges and concerns about its unconventional gameplay being too difficult for mainstream audiences.  However, gameplay footage has surfaced over the years and it looks incredibly unique and promising.
+
+
+
+You can find more information and see gameplay here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/neon-vortex-psygnosis-cancelled-playstation-game/](https://www.retrogamer.net/neon-vortex-psygnosis-cancelled-playstation-game/)
+*   **YouTube Gameplay:** [https://m.youtube.com/watch?v=g0K0uX8Vj5E](https://m.youtube.com/watch?v=g0K0uX8Vj5E)
+
+
+

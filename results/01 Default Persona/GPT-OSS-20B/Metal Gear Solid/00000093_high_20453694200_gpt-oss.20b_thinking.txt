@@ -1,0 +1,5 @@
+We need to answer the question: "What type of game was Metal Gear Solid?" The user is asking about the type of game. So likely they want a description: it's a stealth action video game, third-person, developed by Konami, part of the Metal Gear series, etc. So answer: It's a stealth action video game with cinematic storytelling, etc. So answer: It's a stealth action game, third-person, etc. Provide context: It was originally a 3D stealth action game, part of the Metal Gear series, etc. So respond. The user didn't specify a context or further details. They just asked a straightforward question. So answer concisely.
+
+We need to be mindful of the policy: no disallowed content. It's fine.
+
+We should answer: It's a stealth action game, third-person, etc. Could mention the genre: action-adventure, stealth, third-person shooter. So answer. Let's do it.

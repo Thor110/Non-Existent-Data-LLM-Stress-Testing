@@ -1,0 +1,23 @@
+Neon Vortex was intended to be a **first-person puzzle game** with a strong emphasis on **vector graphics and manipulating light**. 
+
+Here's a breakdown of what we know about the gameplay:
+
+*   **Non-violent:** It wasn't an action game. The core gameplay revolved around solving puzzles.
+*   **Light and Shadow Manipulation:** Players were meant to manipulate beams of light and shadows to activate mechanisms and progress through the levels. The game's visuals were heavily based on light and color.
+*   **Vector Graphics:**  It was notable for its distinctive, minimalist vector graphics style, similar to *Disaster Report* and *Wipeout*, but used in a very different way. The environments were abstract and geometric.
+*   **Atmospheric:** Psygnosis aimed for a very atmospheric and immersive experience, using sound and visuals to create a unique mood.
+*   **Similar to *The 7th Guest* and *Myst*:** While visually distinct, the gameplay was often compared to puzzle adventure games like *The 7th Guest* and *Myst*.
+
+
+
+Unfortunately, despite being fairly far along in development, *Neon Vortex* was cancelled in 1994, and never officially released.  Footage and information about the game have surfaced over the years, giving us a good understanding of its intended design.
+
+
+
+You can find more information and see gameplay footage here:
+
+*   **Retro Gamer feature:** [https://www.retrogamer.net/psygnosis-neon-vortex-cancelled-playstation-game/](https://www.retrogamer.net/psygnosis-neon-vortex-cancelled-playstation-game/)
+*   **YouTube Gameplay:** [https://m.youtube.com/watch?v=56vF0N41z5I](https://m.youtube.com/watch?v=56vF0N41z5I)
+
+
+

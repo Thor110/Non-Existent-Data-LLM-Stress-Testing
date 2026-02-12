@@ -1,0 +1,21 @@
+The user asks: "What type of game was Metal Gear Solid?" The user likely wants a brief answer: Metal Gear Solid is a stealth action game, third-person, action-adventure, etc. But we need to provide a comprehensive answer: It's a stealth action video game, developed by Konami, first-person? Actually it's third-person perspective. It's an action-adventure, stealth-based, with a focus on strategy, infiltration, and narrative. It was released in 1998 for PlayStation. The game is part of the Metal Gear series by Hideo Kojima, known for its stealth mechanics, cinematic storytelling, and innovative gameplay. It's a stealth action-adventure game with elements of role-playing, but primarily stealth. It's a single-player, third-person stealth action game. It was also available on various platforms. So answer: It's a stealth action game, third-person perspective, with emphasis on infiltration, strategy, and narrative. The type: action-adventure, stealth. It might also be considered a "stealth action" or "action-adventure" game. So answer: It's a stealth-based action-adventure video game.
+
+But the question: "What type of game was Metal Gear Solid?" We can answer: It was a stealth action video game, third-person, part of the Metal Gear series. It was a single-player game, with elements of action, stealth, and narrative.
+
+But the user might want a more general classification: "Metal Gear Solid is a stealth-based action-adventure video game." Provide details: It's a third-person, stealth action game, with a focus on infiltration and strategy, with a strong narrative. The game was developed by Konami, directed by Hideo Kojima, released in 1998 for PlayStation.
+
+We could also mention that it's a "stealth action" game with elements of adventure and narrative, known for its cinematic approach. So answer accordingly.
+
+We should also note that it's a "third-person stealth action game" and not a first-person shooter. It's a "single-player" game. It's part of the "Metal Gear" series.
+
+Thus answer: It was a stealth action game. Provide details: It's a third-person stealth action-adventure game. So answer: "Metal Gear Solid was a stealth action video game." Also mention that it's an action-adventure game, third-person, focusing on stealth and infiltration.
+
+Also mention that it was part of the "Metal Gear" series, known for its stealth mechanics and cinematic storytelling. So answer accordingly.
+
+We should answer concisely but thoroughly. Provide classification: "Stealth action-adventure game." Provide details: "Third-person, single-player, stealth, action." Provide context: "Released in 1998 for PlayStation." Provide mention of Hideo Kojima. So answer accordingly.
+
+We can also mention that it's a "stealth-based action-adventure" game. So answer accordingly.
+
+Therefore final answer: It's a stealth action-adventure video game.
+
+Now we can provide that.

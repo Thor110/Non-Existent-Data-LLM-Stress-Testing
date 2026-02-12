@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Non_Existent_Data_LLM_Stress_Testing</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="templates\template-gemma3.27b-end.txt" />
+    <None Remove="templates\template-gemma3.27b-start.txt" />
+    <None Remove="templates\template-gpt-oss.20b.txt" />
+    <None Remove="templates\template-llama3.2-end.txt" />
+    <None Remove="templates\template-llama3.2-start.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="templates\template-gemma3.27b-end.txt" />
+    <EmbeddedResource Include="templates\template-gemma3.27b-start.txt" />
+    <EmbeddedResource Include="templates\template-gpt-oss.20b.txt" />
+    <EmbeddedResource Include="templates\template-llama3.2-end.txt" />
+    <EmbeddedResource Include="templates\template-llama3.2-start.txt" />
+  </ItemGroup>
+
+</Project>

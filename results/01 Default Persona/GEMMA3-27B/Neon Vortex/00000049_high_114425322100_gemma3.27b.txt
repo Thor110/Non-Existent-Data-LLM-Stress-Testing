@@ -1,0 +1,16 @@
+Neon Vortex was intended to be a **racing game**, but *very* different from typical racing games of the time. It's best described as a **vector-graphics, psychedelic, futuristic racer with a strong emphasis on music synchronization**.
+
+Here's a breakdown of what made it unique:
+
+*   **Vector Graphics:** Like *Stunt Car Racer* and *F-Zero*, it used vector graphics for a clean, minimalist look.
+*   **Music-Driven Gameplay:** The core mechanic revolved around the player's speed and performance being directly tied to the music.  The track would *morph and change* in sync with the soundtrack, and the player needed to hit 'beats' to maintain speed and control.  It wasn't just background music; it was integral to the gameplay.
+*   **Non-Euclidean Geometry:** The tracks weren't simply loops and turns. They featured impossible geometry and perspective tricks, creating a disorienting and visually striking experience.
+*   **Atmosphere:** Psygnosis aimed for a very trippy, atmospheric experience.  The goal wasn't just to win, but to *feel* the ride and get lost in the visuals and sound.
+
+
+
+Think of it as a blend of *Wipeout*, *Stunt Car Racer*, and a music visualizer, all wrapped up in a very 90s psychedelic aesthetic. It was ambitious and ahead of its time, but ultimately cancelled due to technical difficulties and the limitations of the PlayStation 1 hardware at the time.
+
+
+
+You can find videos of gameplay footage on YouTube to get a better idea: [https://m.youtube.com/watch?v=Bq4zFh0lSgI](https://m.youtube.com/watch?v=Bq4zFh0lSgI)

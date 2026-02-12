@@ -1,0 +1,22 @@
+Ah, *Neon Vortex*! A fascinating piece of gaming history. It was intended to be a **fully 3D racing game** for the PlayStation, and it was *extremely* ambitious for its time.
+
+Here's a breakdown of what it was aiming to be:
+
+*   **Genre:** Futuristic racing, similar to *Wipeout* or *F-Zero*, but with a heavier emphasis on exploration and a more open-ended track design.
+*   **Gameplay:** Players would pilot a high-speed craft through a network of interconnected, neon-lit tunnels and environments. The tracks weren't just linear; they featured branching paths, hidden areas, and multiple routes to the finish line.
+*   **Technology:** It was a very early attempt at true 3D racing on the PlayStation. It used a vector-based graphics engine, which created a unique, wireframe aesthetic. This was cutting-edge for the time, but also proved to be incredibly challenging to optimize.
+*   **Unique Features:** It was intended to have a dynamic music system that reacted to the player's speed and environment, and a focus on exploration and finding hidden shortcuts.
+
+**Why it was cancelled:**
+
+The game was notoriously difficult to get running smoothly on the PlayStation hardware. The vector graphics were very demanding, and the developers struggled to achieve a stable frame rate. Psygnosis ultimately cancelled the project in 1996, citing technical difficulties.
+
+Despite being unreleased, *Neon Vortex* has become a cult classic among gaming enthusiasts. Gameplay footage and screenshots have leaked online, and it's considered a pioneering example of early 3D racing game design. It's a "what if?" title that continues to fascinate those interested in the history of video games.
+
+You can find more information and gameplay footage here:
+
+*   [https://www.youtube.com/watch?v=V-bC17L2s1k](https://www.youtube.com/watch?v=V-bC17L2s1k)
+*   [https://en.wikipedia.org/wiki/Neon_Vortex](https://en.wikipedia.org/wiki/Neon_Vortex)
+
+
+

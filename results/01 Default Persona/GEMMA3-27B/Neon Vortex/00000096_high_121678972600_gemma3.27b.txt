@@ -1,0 +1,21 @@
+Neon Vortex was intended to be a **racing game**, but *very* different from typical racers. It's best described as a **vector-based, psychedelic, "anti-gravity" racer with puzzle elements**. 
+
+Here's a breakdown of what made it unique:
+
+*   **Vector Graphics:** It used stark, minimalist vector graphics reminiscent of early arcade games like *Battlezone* or *Star Wars*.
+*   **Non-Euclidean Geometry:** The tracks weren't just courses, but twisted, warped, and folded spaces with impossible geometry.  This was a key feature - the player could seemingly "wrap around" the environment.
+*   **Puzzle Solving:** Players didn't just race *around* the tracks, but had to manipulate the track itself, changing its shape to create a path forward.
+*   **"Anti-Gravity" Feel:** While not exactly gravity-defying, the visuals and track design gave the impression of floating through a bizarre, abstract space.
+*   **Atmospheric Soundtrack:** It featured a trance/ambient soundtrack designed to enhance the psychedelic experience.
+
+It was a highly ambitious project for its time, pushing the limits of the Amiga hardware.  Sadly, it was cancelled late in development due to technical challenges and Psygnosis's shift in focus.  Gameplay footage has surfaced over the years, showing just how innovative and visually striking it was.
+
+
+
+You can find more information and gameplay videos here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/lost-classics-neon-vortex/](https://www.retrogamer.net/lost-classics-neon-vortex/)
+*   **YouTube Gameplay:** [https://m.youtube.com/watch?v=yqB2wJ-0n-A](https://m.youtube.com/watch?v=yqB2wJ-0n-A)
+
+
+

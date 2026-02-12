@@ -1,0 +1,21 @@
+Ah, *Neon Vortex*! A fascinating piece of gaming history. It was intended to be a **rail shooter**, but with a very unique twist.
+
+Here's a breakdown of what it was meant to be:
+
+*   **Genre:** Primarily a rail shooter, meaning the player character moves along a predetermined path. However, it was heavily inspired by *Star Fox* and *Virtua Racing*, aiming for a fast-paced, 3D experience.
+*   **Gameplay:** Players would control a ship navigating through neon-lit, abstract environments. The core mechanic involved "morphing" the ship into different forms (like a jet, a submarine, or a tank) to overcome obstacles and attack enemies. These transformations were triggered by hitting specific points on the track.
+*   **Technology:** *Neon Vortex* was notable for being one of the earliest attempts at a fully 3D polygonal game on the Amiga. It pushed the hardware to its limits, utilizing a custom-built engine.
+*   **Story:** The story was minimalist, focusing on the player's journey through a surreal, digital world.
+
+**Why it was cancelled:**
+
+The game was notoriously difficult to get working reliably on the Amiga. The hardware simply wasn't powerful enough to handle the complex 3D graphics and fast-paced action without significant slowdown and glitches. Psygnosis ultimately cancelled the project in 1994, just before its scheduled release.
+
+**Legacy:**
+
+Footage of *Neon Vortex* has circulated online for years, and it's become something of a cult classic among Amiga enthusiasts. It's considered a pioneering, if ultimately unfulfilled, vision of 3D gaming on the platform.
+
+You can find videos of gameplay footage on YouTube to get a better sense of what it was like. It's a truly intriguing and visually striking game, even in its unfinished state.
+
+
+

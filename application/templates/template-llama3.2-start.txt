@@ -1,0 +1,8 @@
+<|start_header_id|>system<|end_header_id|>
+
+Cutting Knowledge Date: December 2023
+
+{{ if .System }}{{ .System }}
+{{- end }}
+{{- if .Tools }}When you receive a tool call response, use the output to format an answer to the orginal user question.
+

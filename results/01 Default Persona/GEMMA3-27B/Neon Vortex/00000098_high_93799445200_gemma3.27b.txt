@@ -1,0 +1,15 @@
+Neon Vortex was intended to be a **full-motion video (FMV) light gun shooter**, but with a unique twist. It wasn't just about shooting targets; it incorporated elements of **puzzle-solving and branching narrative**.
+
+Here's a breakdown:
+
+*   **Light Gun Shooter:** Players would use a light gun to interact with on-screen events.
+*   **FMV:** The game heavily relied on full-motion video, featuring live actors and pre-rendered environments.
+*   **Puzzle Elements:**  Players had to solve puzzles by shooting specific objects in the correct order or at the right time.
+*   **Branching Storyline:**  The choices players made through their actions (shooting or not shooting certain things) would affect the story's outcome.  It was designed to have multiple endings.
+*   **Cyberpunk/Sci-Fi Setting:** The game was set in a futuristic, cyberpunk world.
+
+Essentially, it was trying to be a more interactive and story-driven light gun game than typical arcade shooters of the time, leaning into adventure game elements. It was often described as a mix of *Sewer Shark* (another FMV light gun game) and an adventure title.
+
+
+
+Unfortunately, despite being nearly complete, it was cancelled shortly before release due to concerns about the growing market saturation of FMV games and the perceived lack of long-term appeal.  A playable demo circulated amongst gaming press, and footage has surfaced online, giving us a good idea of what it would have been like.

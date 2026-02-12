@@ -1,0 +1,21 @@
+Neon Vortex was intended to be a **full-motion video (FMV) light gun shooter**, heavily inspired by *Virtua Cop* and *Time Crisis*. 
+
+Here's a breakdown of what we know about the gameplay:
+
+*   **On-rails shooter:** Players would move through pre-rendered 3D environments automatically, focusing on shooting targets.
+*   **FMV cutscenes:** The game heavily featured live-action full-motion video sequences to tell the story and provide context.
+*   **Branching paths:** It was planned to have multiple branching paths based on player actions, offering some replayability.
+*   **Sci-Fi setting:** The game was set in a futuristic, neon-lit cyberpunk world, as the name "Neon Vortex" suggests.
+*   **Cover system:** Players could use cover to avoid enemy fire, a feature somewhat ahead of its time for the genre.
+
+Essentially, Psygnosis was aiming to create a more cinematic and story-driven light gun experience than many of its competitors at the time. However, due to technical issues and the declining popularity of arcades/light gun games, the project was cancelled before release.
+
+
+
+You can find more information and footage here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/psygnosis-neon-vortex-the-lost-light-gun-shooter/](https://www.retrogamer.net/psygnosis-neon-vortex-the-lost-light-gun-shooter/)
+*   **YouTube video showing gameplay:** [https://m.youtube.com/watch?v=lF9Gz2j5o3M](https://m.youtube.com/watch?v=lF9Gz2j5o3M)
+
+
+

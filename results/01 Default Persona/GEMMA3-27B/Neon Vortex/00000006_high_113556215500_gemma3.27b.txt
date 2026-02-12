@@ -1,0 +1,15 @@
+Neon Vortex was intended to be a **racing game**, but a very unique one. It wasn't about cars or planes, but about piloting **energy spheres** through abstract, neon-lit courses within a virtual reality network. 
+
+Here's a breakdown of its key features and genre aspects:
+
+*   **Virtual Reality Racing:** The game was heavily inspired by *Tron*, with a focus on a digital, virtual world.
+*   **Energy-Based Gameplay:** Players controlled spheres of energy, not vehicles, and had to navigate complex tracks.
+*   **Track Manipulation:** A key feature was the ability to *reshape* the track itself in real-time, creating new paths and obstacles. This was done through a system of "nodes" that could be manipulated.
+*   **Puzzle Elements:** It wasn't just about speed; players needed to solve puzzles and strategically alter the track to progress.
+*   **Multiplayer Focus:** It was designed with 2-player split-screen in mind, allowing players to directly interfere with each other's tracks.
+
+While fundamentally a racing game, it also incorporated elements of puzzle-solving and track-building, making it a rather innovative and unusual title for its time. It's often described as a blend of *F-Zero*, *Wipeout*, and *Lemmings*, with a heavy dose of visual flair.
+
+
+
+You can find more information and gameplay footage here: [https://www.youtube.com/watch?v=n-l2k_3xY2s](https://www.youtube.com/watch?v=n-l2k_3xY2s) and [https://en.wikipedia.org/wiki/Neon_Vortex](https://en.wikipedia.org/wiki/Neon_Vortex)

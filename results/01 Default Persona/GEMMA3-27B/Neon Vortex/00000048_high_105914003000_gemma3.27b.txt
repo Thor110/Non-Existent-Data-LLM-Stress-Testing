@@ -1,0 +1,18 @@
+Neon Vortex was intended to be a **racing game**, but *very* different from typical racers of the time. It's best described as a **vector-graphics, psychedelic, futuristic racing game with a strong emphasis on manipulating the track itself.**
+
+Here's a breakdown of what made it unique:
+
+*   **Vector Graphics:** Like *Stunt Car Racer* (also by Psygnosis), it used wireframe, vector-based graphics, giving it a stark, minimalist look.
+*   **Track Manipulation:** The core gameplay revolved around the ability to *change the shape of the track* in real-time. Players could raise, lower, and twist sections of the course using power-ups, creating jumps, shortcuts, or obstacles for opponents.
+*   **Psychedelic Visuals:** It was heavily inspired by the rave/trance culture of the early 90s, with bright, pulsating colors, abstract patterns, and a fast-paced electronic soundtrack. The intention was to create a visually immersive and disorienting experience.
+*   **Physics-Based:** The game was planned to have a complex physics engine, making handling challenging and rewarding.
+*   **Multiplayer Focus:** It was designed with a strong emphasis on 4-player split-screen multiplayer.
+
+Essentially, it was aiming to be a blend of *Stunt Car Racer*'s track deformation with a much more visually intense and modern (for 1994) aesthetic and gameplay experience.
+
+
+
+You can find lots of information and footage (mostly from early builds) here: [https://www.lostmediawiki.com/Neon_Vortex](https://www.lostmediawiki.com/Neon_Vortex)
+
+
+

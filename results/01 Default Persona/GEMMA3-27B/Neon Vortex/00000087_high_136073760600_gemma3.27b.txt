@@ -1,0 +1,26 @@
+Neon Vortex was intended to be a **first-person puzzle game** with a strong emphasis on atmosphere and non-violent gameplay. 
+
+Here's a breakdown of what we know about its gameplay:
+
+*   **First-Person Perspective:** Players would navigate the game world from a first-person view.
+*   **Puzzle Solving:** The core gameplay revolved around solving intricate puzzles within a complex, abstract, and neon-lit environment.
+*   **Non-Violent:** Unlike many games of the time, it was designed without combat or enemies. The challenge came entirely from the puzzles themselves.
+*   **Atmospheric & Abstract:** The game was visually striking, featuring a highly stylized, futuristic world made of glowing neon shapes and geometric structures. The focus was on creating a sense of immersion and mystery.
+*   **Physics-Based:** Puzzles involved manipulating objects and utilizing physics to progress.
+*   **Level Design:** Levels were described as labyrinthine and non-linear, encouraging exploration.
+
+
+
+It's often described as being similar in concept to games like *The 7th Guest* or early *Myst*, but with a faster pace and a more modern, electronic aesthetic.
+
+Sadly, despite being close to completion, *Neon Vortex* was cancelled by Psygnosis in 1994, reportedly due to concerns about its marketability and the rise of more action-oriented first-person shooters like *Doom*. However, playable builds have surfaced over the years, allowing players to experience the unique vision of this lost classic.
+
+
+
+You can find more information and gameplay footage here:
+
+*   **Retro Gamer Article:** [https://www.retrogamer.net/neon-vortex-the-lost-psygnosis-first-person-puzzle-game/](https://www.retrogamer.net/neon-vortex-the-lost-psygnosis-first-person-puzzle-game/)
+*   **YouTube Gameplay:** [https://m.youtube.com/watch?v=H-3oJ_s9N9k](https://m.youtube.com/watch?v=H-3oJ_s9N9k)
+
+
+

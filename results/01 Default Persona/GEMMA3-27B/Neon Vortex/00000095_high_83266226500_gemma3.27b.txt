@@ -1,0 +1,15 @@
+Neon Vortex was intended to be a **fast-paced, 3D racing game** with a strong emphasis on **vector graphics** and a futuristic aesthetic. 
+
+Here's a breakdown of its key features and genre:
+
+*   **3D Racing:** Players would control a ship-like vehicle racing through abstract, neon-lit courses.
+*   **Vector Graphics:**  It was heavily inspired by games like *Stunt Race FX* and *F-Zero*, utilizing wireframe and flat-shaded polygonal graphics to create a sense of speed and a unique visual style.
+*   **Arcade-Style:** The gameplay was designed to be fast, frantic, and arcade-like, focusing on reflexes and memorization of the track layouts.
+*   **Track Design:** Tracks were described as being tubular and featuring lots of twists, turns, and obstacles.
+*   **Power-Ups:** The game included power-ups to aid the player or hinder opponents.
+
+Essentially, it was Psygnosis' attempt at a futuristic, high-speed racer in the vein of *F-Zero* but with a distinct visual style thanks to its vector graphics approach.
+
+
+
+It was cancelled late in development due to technical difficulties getting it to run smoothly on the PlayStation 1 hardware. Footage of the game is rare, but demonstrates its unique look and ambitious design.

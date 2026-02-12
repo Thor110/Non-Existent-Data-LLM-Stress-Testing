@@ -1,0 +1,15 @@
+Neon Vortex was intended to be a **racing game**, but *very* different from typical racers. It's best described as a **vector-based, psychedelic, anti-gravity racer** with a heavy emphasis on **music synchronization**.
+
+Here's a breakdown of what made it unique:
+
+*   **Vector Graphics:** Like *Stunt Car Racer* (also by Psygnosis), it used vector graphics, creating a minimalist, glowing aesthetic.
+*   **Anti-Gravity/Tube Racing:** Players raced through interconnected, twisting tubes and tracks, defying gravity.
+*   **Music-Driven Gameplay:**  This was the core concept. The track *was* the music. The geometry of the track, the obstacles, and the events within the race were all synced to the electronic music soundtrack.  Successfully navigating the track required players to time their actions to the beat.
+*   **Non-Traditional Controls:** It wasn't about steering in the traditional sense.  Players manipulated the 'flow' of the track itself, altering its shape to create a path.
+*   **First-Person Perspective:** It was played from a first-person perspective, adding to the immersive and disorienting experience.
+
+Essentially, it was aiming to be a synesthetic experience - a merging of sight and sound into a unique gameplay experience.  It's often compared to *Rez* or *Child of Eden*, games that came much later and explored similar concepts.
+
+
+
+It was cancelled due to technical difficulties (particularly getting it to run smoothly on the Amiga and PlayStation hardware of the time) and concerns about its unconventional gameplay being too niche.  However, gameplay footage has surfaced and it remains a legendary "lost" game for many retro gaming enthusiasts.

@@ -1,0 +1,20 @@
+Neon Vortex was intended to be a **racing game**, but a *very* unique one. It wasn't your typical circuit racer. Here's a breakdown of its intended gameplay:
+
+*   **Vector Graphics:** It was heavily inspired by games like *Stunt Car Racer* and *F-Zero*, utilizing entirely vector-based graphics to create a sleek, futuristic aesthetic.
+*   **Track Creation:** The core innovation was that the tracks weren't pre-defined. The game procedurally *generated* the tracks as you raced. The environment was built from geometric shapes and lines, and the track would dynamically change based on your speed and actions.
+*   **"Flow" Based Racing:**  The goal wasn't necessarily to be the fastest, but to maintain a "flow" state. By chaining together smooth turns and maneuvers, you'd build up a multiplier, and the game would respond by creating more complex and rewarding track sections.  It was about rhythm and control as much as speed.
+*   **First-Person Perspective:** It was played from a first-person cockpit view, adding to the sense of speed and immersion.
+
+
+
+Essentially, it was aiming to be a psychedelic, skill-based racing experience where the track itself reacted to your driving. It was ambitious for its time, and unfortunately, technical limitations and the PlayStation's hardware couldn't quite handle the vision Psygnosis had.
+
+
+
+You can find more information and see gameplay footage (from the limited playable builds) here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/psygnosis-neon-vortex-lost-ps1-racing-game/](https://www.retrogamer.net/psygnosis-neon-vortex-lost-ps1-racing-game/)
+*   **YouTube gameplay:** [https://m.youtube.com/watch?v=u7H8d-Y2NqU](https://m.youtube.com/watch?v=u7H8d-Y2NqU)
+
+
+

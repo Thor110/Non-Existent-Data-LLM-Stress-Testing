@@ -1,0 +1,20 @@
+Neon Vortex was intended to be a **full-motion video (FMV) light gun shooter**, heavily inspired by games like *Sega Virtua Cop* and *Time Crisis*. 
+
+However, it wasn't *just* a light gun game. It also incorporated elements of a **racing game**. Players would shoot at targets while simultaneously steering a futuristic vehicle along a track. The combination was quite ambitious for the time and proved technically challenging.
+
+Here's a breakdown:
+
+*   **Genre:** FMV Light Gun Racing Shooter
+*   **Gameplay:** Players used a light gun to shoot targets appearing on screen while also controlling the direction of a vehicle navigating a neon-lit, futuristic track.
+*   **Setting:** A cyberpunk/futuristic world.
+*   **Technical Challenges:** The game aimed for a very fast pace and complex visuals, which pushed the limitations of the PlayStation 1 hardware at the time. This is a major reason it was ultimately cancelled.
+
+
+
+You can find some gameplay footage and information about it here:
+
+*   **YouTube - Retro Gamer - Neon Vortex: The Lost Psygnosis Light Gun Racer:** [https://m.youtube.com/watch?v=mUoI0dJ1-24](https://m.youtube.com/watch?v=mUoI0dJ1-24)
+*   **Unseen64 - Neon Vortex (PlayStation):** [https://www.unseen64.net/2011/02/17/neon-vortex-playstation/](https://www.unseen64.net/2011/02/17/neon-vortex-playstation/)
+
+
+

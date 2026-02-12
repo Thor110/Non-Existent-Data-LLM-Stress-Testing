@@ -1,0 +1,23 @@
+Neon Vortex was intended to be a **fast-paced, 3D racing game with a strong emphasis on psychedelic visuals and a futuristic, Tron-like aesthetic.**
+
+Here's a breakdown of what we know about the gameplay:
+
+*   **Vector Graphics:** It used entirely vector graphics, meaning shapes were defined by mathematical equations rather than pixels, giving it a very clean and distinctive look.
+*   **Fast Paced:** The game was designed to be incredibly fast, with speeds exceeding anything seen in racing games at the time.
+*   **Tube-Like Tracks:** Players raced through a series of interconnected, glowing tube-like tracks.
+*   **Power-Ups:** There were power-ups to collect that affected speed, weapons, and other aspects of the race.
+*   **Multiplayer:** It was intended to have a 2-player split-screen mode.
+*   **Atmosphere:** Psygnosis aimed for a very immersive and atmospheric experience, using music and visuals to create a sense of speed and disorientation.
+
+Essentially, imagine a blend of *Wipeout*, *F-Zero*, and *Stunt Race FX*, but with a much more abstract and visually striking presentation. It was ambitious for its time, pushing the limits of the Amiga 1200 hardware.
+
+
+
+You can find more information and gameplay footage (from early builds) here:
+
+*   **YouTube Gameplay:** [https://m.youtube.com/watch?v=R1-7_fK0VpU](https://m.youtube.com/watch?v=R1-7_fK0VpU)
+*   **Wikipedia:** [https://en.wikipedia.org/wiki/Neon_Vortex](https://en.wikipedia.org/wiki/Neon_Vortex)
+*   **Retro Gamer article:** [https://www.retrogamer.net/psygnosis-neon-vortex-amiga-1200-cancelled-game/](https://www.retrogamer.net/psygnosis-neon-vortex-amiga-1200-cancelled-game/)
+
+
+

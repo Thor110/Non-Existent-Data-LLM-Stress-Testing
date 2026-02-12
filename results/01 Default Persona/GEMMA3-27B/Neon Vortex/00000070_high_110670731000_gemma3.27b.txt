@@ -1,0 +1,21 @@
+Neon Vortex was intended to be a **fast-paced, 3D racing game with a strong emphasis on vector graphics and a futuristic aesthetic.** 
+
+Here's a breakdown of what we know about the gameplay:
+
+*   **Vector Graphics:** It was heavily inspired by games like *Stunt Car Racer* and *F-Zero*, utilizing minimalist vector graphics to create a sense of speed and a unique visual style.
+*   **Track Design:** The tracks were designed to be incredibly fast and twisty, with loops, jumps, and banking turns.  They were procedurally generated, meaning each race would be different.
+*   **Power-ups:** The game featured power-ups that players could collect to gain an advantage over opponents.
+*   **Multiplayer:** It was intended to have a 2-player split-screen multiplayer mode.
+*   **Atmosphere:** The game aimed for a dark, gritty, and cyberpunk-inspired atmosphere.
+
+Essentially, it was Psygnosis' attempt to create a next-generation racer that pushed the limits of the Amiga 1200 hardware. Unfortunately, it was cancelled due to technical difficulties and the declining Amiga market.
+
+
+
+You can find more information and gameplay footage (from the very limited demo) here:
+
+*   **YouTube - Retro Gamer - Neon Vortex - The Lost Psygnosis Racer:** [https://m.youtube.com/watch?v=H3sV7R9gWlM](https://m.youtube.com/watch?v=H3sV7R9gWlM)
+*   **Wikipedia - Neon Vortex:** [https://en.wikipedia.org/wiki/Neon_Vortex](https://en.wikipedia.org/wiki/Neon_Vortex)
+
+
+

@@ -1,0 +1,16 @@
+Neon Vortex was intended to be a **fast-paced, 3D racing game** with a strong emphasis on **vector graphics and a futuristic aesthetic**. 
+
+Here's a breakdown of what we know about the gameplay:
+
+*   **Vector Graphics:** It was heavily inspired by games like *Star Wars* (the arcade vector game) and *F-Zero*, utilizing minimalist, glowing lines to create the tracks and ships.
+*   **Speed & Momentum:** The game was designed to be incredibly fast, requiring players to maintain momentum and skillfully navigate tight, twisting courses.
+*   **Track Design:** Tracks were described as complex, multi-layered, and designed to disorient players. They featured loops, corkscrews, and narrow passages.
+*   **Power-Ups:** Power-ups were included to help players gain an edge, like speed boosts and weapons.
+*   **Multiplayer:** It was planned to have a two-player split-screen mode.
+*   **Amiga CD32 Focus:** It was being developed primarily for the Amiga CD32, aiming to showcase the console's capabilities.
+
+Essentially, think of it as a precursor to games like *Wipeout* (also by Psygnosis) but even more raw and stripped-down in its visual style. It was aiming for a pure speed and arcade feel.
+
+
+
+Unfortunately, it was cancelled late in development due to technical challenges with the Amiga CD32 hardware and concerns about its commercial viability.  Footage and information about it resurfaced over the years, becoming a bit of a legend among Amiga enthusiasts. You can find gameplay videos on YouTube if you're interested in seeing what it looked like!

@@ -1,0 +1,13 @@
+Neon Vortex was intended to be a **racing game**, but a very unique one. It wasn't your typical circuit racer. Here's a breakdown of the type of game it was aiming to be:
+
+*   **Vector Graphics Racing:** The game was heavily inspired by games like *Stunt Car Racer* and *F-Zero*. It used purely vector graphics to create its tracks and vehicles, giving it a distinct, minimalist, and futuristic look.
+*   **Track Construction/Editing:**  A key feature was the ability to **build your own tracks** using a track editor. Players could design complex, twisting, and looping courses.  This was a significant selling point.
+*   **Physics-Based:** It featured a physics engine that allowed for crashes and vehicle deformation.
+*   **Multiplayer Focus:** It was designed with a strong emphasis on multiplayer racing, allowing players to race on each other's custom-built tracks.
+*   **Atmospheric/Trance Soundtrack:**  The game was intended to have a very immersive atmosphere with a trance-style soundtrack to complement the fast-paced, neon-lit visuals.
+
+Essentially, it was aiming to be a blend of *Stunt Car Racer*'s track construction and physics with the speed and futuristic aesthetic of *F-Zero*, all wrapped in a striking vector graphics package.
+
+
+
+It's a bit of a cult classic due to its cancellation, and gameplay footage has surfaced over the years, showcasing what could have been a very innovative racing game for its time. You can find videos on YouTube if you search for "Neon Vortex Psygnosis".

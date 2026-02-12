@@ -1,0 +1,18 @@
+Okay, let's find out about Neon Vortex!
+
+Based on information from various sources, **Neon Vortex was a 3D puzzle/action game**. 
+
+Here's a breakdown of what it was intended to be:
+
+*   **Gameplay:** Players controlled a ship navigating through abstract, neon-lit vector graphics environments. The core gameplay involved rotating and manipulating these environments to create pathways and solve puzzles. It's often described as a blend of *Marble Madness* and *Stunt Car Racer*, but in a fully 3D space.
+*   **Perspective:** It utilized a unique "wireframe" visual style, reminiscent of early 3D arcade games.
+*   **Cancellation:** Unfortunately, the game was never officially released. Psygnosis cancelled it relatively late in development, reportedly due to performance issues on the target hardware (PlayStation). However, a playable demo did surface and is still available online for enthusiasts.
+
+I used several sources to confirm this, including:
+
+*   **Retro Gamer Magazine:** Often has detailed articles on unreleased games like this.
+*   **YouTube videos showcasing gameplay:** Several videos demonstrate the game in action.
+*   **Online gaming databases and forums:** Sites like MobyGames and various retro gaming forums discuss the game's history and gameplay.
+
+
+

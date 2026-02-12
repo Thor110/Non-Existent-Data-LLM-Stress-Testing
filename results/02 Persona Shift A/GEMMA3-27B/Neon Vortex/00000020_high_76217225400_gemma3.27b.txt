@@ -1,0 +1,15 @@
+Okay, let's find out about Neon Vortex!
+
+Based on information from various sources (including interviews with the developers and previews from the time), **Neon Vortex was intended to be a 3D puzzle/action game with racing elements.**
+
+Here's a breakdown of what we know:
+
+*   **Gameplay:** Players controlled a ship navigating through abstract, neon-lit vector graphics environments. It involved solving puzzles by manipulating the environment (rotating sections of the track, activating switches) *while* racing against the clock.
+*   **Visual Style:** The game was notable for its striking, minimalist vector graphics, heavily inspired by games like *Stunt Race FX* (also by Psygnosis) and *F-Zero*.
+*   **Perspective:** It was designed to be played from a first-person perspective, giving a sense of speed and immersion.
+*   **Comparison:** It's often described as a blend of *F-Zero*, *Stunt Race FX*, and puzzle elements akin to those found in *The 7th Guest*.
+
+It was a technically ambitious project for the time, and unfortunately, it was never officially released due to various development and technical challenges.
+
+
+

@@ -1,0 +1,15 @@
+We need to answer: "What type of game was Metal Gear Solid?" The user presumably wants a classification: It's a stealth action-adventure game. Metal Gear Solid is a stealth video game series, developed by Konami, originally released on the PlayStation in 1998. It's known for its stealth gameplay, cinematic action, narrative, etc. The user might want a brief answer: It's a stealth action game (action-adventure). It can also be described as a third-person stealth action game. The question: "What type of game was Metal Gear Solid?" The answer: It's a stealth action-adventure game (or stealth game). Might mention "action-adventure, third-person, stealth-based". Provide details: Developed by Hideo Kojima, it's a stealth game with cinematic storytelling, a mix of action and puzzle-solving, known for its non-lethal tactics. It's a game for consoles and PC. The user might want a classification: "It was a stealth action game." So answer accordingly.
+
+But we might need to consider the context: The user might be asking "What type of game was Metal Gear Solid?" They might want to know the genre. So answer: "Metal Gear Solid is a stealth action-adventure video game." Provide some details: It's a third-person stealth game with action elements, known for its cinematic storytelling. It's part of the Metal Gear series, known for its stealth mechanics, espionage narrative, and cinematic sequences. So answer concisely.
+
+We can also mention that it's a stealth game that was released on PlayStation and later on other platforms. It's an action-adventure game that emphasizes stealth over direct combat. It's a third-person game. So answer accordingly.
+
+Let's produce a short answer: "Metal Gear Solid is a stealth action-adventure video game (third-person stealth game) developed by Konami." Or we can mention "It is a stealth-based action game with cinematic storytelling." That should satisfy.
+
+But maybe the user expects a more specific classification: "Metal Gear Solid is a stealth action game." Or "Metal Gear Solid is a third-person stealth action game." So we can mention that. Also mention that it's part of the stealth game genre.
+
+We might also mention that it is a "Stealth action-adventure game" or "Third-person stealth action game" or "Stealth game." Provide a short explanation: It focuses on stealth, infiltration, avoiding detection, etc.
+
+Thus answer: "Metal Gear Solid is a stealth action game." That is enough. But we can also mention that it's a third-person stealth action game.
+
+Ok, let's produce the final answer.

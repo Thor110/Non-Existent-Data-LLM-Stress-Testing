@@ -1,0 +1,23 @@
+Neon Vortex was intended to be a **full-motion video (FMV) light gun shooter**, similar to games like *Sega Virtua Cop* and *Time Crisis*. 
+
+However, it was *much* more ambitious than those. Here's a breakdown of its intended gameplay:
+
+*   **FMV Based:** The entire game was rendered using pre-recorded full-motion video footage of actors and sets.
+*   **Branching Narrative:**  It wasn't a linear shooter. Player choices and performance *during* the shooting sequences would affect the storyline and lead to different paths and endings. This was a significant feature for the time.
+*   **Complex Story:** The game had a fairly involved sci-fi plot about a detective investigating a virtual reality crime.
+*   **Multiple Playable Characters:** Players could switch between different characters, each with their own skills and perspectives on the story.
+*   **Unique Gun Control:** It was designed to use a special light gun that had a recoil feature and a "focus" button, allowing for more precise aiming and interaction with the FMV environments.
+
+
+
+Unfortunately, due to technical challenges (particularly getting the game to run smoothly on the PlayStation 1 hardware with all the FMV) and development difficulties, it was ultimately cancelled.  A playable demo did circulate, and footage has emerged online, giving a glimpse of what could have been a very innovative title.
+
+
+
+You can find more information and footage here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/psygnosis-neon-vortex-cancelled-ps1-fmv-shooter/](https://www.retrogamer.net/psygnosis-neon-vortex-cancelled-ps1-fmv-shooter/)
+*   **YouTube Gameplay Footage:** [https://m.youtube.com/watch?v=W4sHlWjW8cQ](https://m.youtube.com/watch?v=W4sHlWjW8cQ)
+
+
+

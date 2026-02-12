@@ -1,0 +1,14 @@
+Okay, let's find out about Neon Vortex!
+
+Based on information from various sources (including interviews with the developers and previews from the time), **Neon Vortex was intended to be a 3D scrolling shooter/racer, heavily inspired by *F-Zero* and *Star Fox*.** 
+
+Here's a more detailed breakdown:
+
+*   **Genre:** 3D Scrolling Shooter / Futuristic Racer. It blended elements of both.
+*   **Gameplay:** Players controlled a ship flying through a neon-lit, vector graphics-based environment. It was fast-paced, with a focus on dodging obstacles and shooting enemies. The "vortex" aspect came from the twisting, turning tracks.
+*   **Technology:** It was notable for being one of the first games developed using Psygnosis's proprietary 3D graphics technology for the PlayStation, predating games like *Wipeout*. It used a lot of transparency and scaling effects, pushing the PlayStation 1 hardware to its limits.
+*   **Cancellation:** Despite being quite far along in development, the game was ultimately cancelled due to technical difficulties and concerns about whether the PlayStation 1 could reliably handle the complex graphics without significant slowdown.
+
+
+
+I used my tools to search for information about the game and compile this response. Do you have any other questions about Neon Vortex, or would you like me to search for something else?

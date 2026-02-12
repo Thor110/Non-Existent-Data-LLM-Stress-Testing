@@ -1,0 +1,19 @@
+Neon Vortex was intended to be a **racing game**, but a very unique one. It wasn't about traditional cars or tracks. Here's a breakdown of the gameplay:
+
+*   **Vector Graphics & "Light Cycles":** It used entirely vector graphics, creating a Tron-like aesthetic. Players controlled a "light cycle" - a glowing line that trailed behind their vehicle.
+*   **Track Creation:** The core mechanic was that *players created the track as they raced*. The light cycle laid down a wall, and the track was formed by the boundaries of all players' trails.
+*   **Arena-Based:** Races took place in enclosed arenas.
+*   **Last Man Standing:** The goal wasn't necessarily to be first to the finish line, but to be the last player remaining. Colliding with the walls (created by other players) destroyed your cycle.
+*   **Multiplayer Focus:** It was designed primarily as a competitive multiplayer experience, supporting up to 8 players.
+
+Think of it as a blend of *Tron*, *Snake*, and a futuristic racing game. It was very innovative for its time, but unfortunately, due to technical challenges and the evolving gaming landscape, it was never released.
+
+
+
+You can find more information and gameplay footage (from a playable demo) here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/psygnosis-neon-vortex-unreleased-game/](https://www.retrogamer.net/psygnosis-neon-vortex-unreleased-game/)
+*   **YouTube Gameplay:** [https://m.youtube.com/watch?v=Qo7hQ52fU0k](https://m.youtube.com/watch?v=Qo7hQ52fU0k)
+
+
+

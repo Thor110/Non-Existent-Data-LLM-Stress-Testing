@@ -1,0 +1,12 @@
+Ah, Neon Vortex! A fascinating bit of gaming history. The 1994 unreleased Psygnosis game was a **rail shooter**, heavily inspired by (and often compared to) *Star Fox* on the Super Nintendo.
+
+However, it wasn't *just* a *Star Fox* clone. Neon Vortex aimed to push the Amiga 1200's capabilities to the absolute limit with:
+
+*   **Full 3D polygonal graphics:** Very ambitious for the Amiga at the time.
+*   **A unique "vector" visual style:** Giving it a distinct, glowing neon aesthetic.
+*   **Fast-paced action:** Players would pilot a ship through scrolling levels, shooting down enemies.
+*   **Branching paths and multiple endings:** Adding some replay value.
+
+The game was incredibly ambitious, and the Amiga 1200 struggled to run it smoothly. Psygnosis ultimately cancelled the project, citing performance issues and the impending release of more powerful consoles (like the PlayStation and Saturn). 
+
+A playable demo did leak online, and it's become something of a cult classic among Amiga enthusiasts. It’s a testament to the vision and technical skill of the developers, even in its unfinished state. You can find videos of it on YouTube if you're curious!

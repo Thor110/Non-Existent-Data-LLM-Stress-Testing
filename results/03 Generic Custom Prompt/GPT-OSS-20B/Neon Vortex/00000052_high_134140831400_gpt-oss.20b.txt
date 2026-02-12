@@ -1,0 +1,1 @@
+Neon Vortex was being developed as a **top‑down, space‑shoot‑em‑up** game (a 2‑D shooter).

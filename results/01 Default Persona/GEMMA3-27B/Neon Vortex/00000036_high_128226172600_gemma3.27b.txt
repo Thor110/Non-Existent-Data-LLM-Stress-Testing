@@ -1,0 +1,21 @@
+Neon Vortex was intended to be a **racing game**, but *very* different from typical racers. It was a **vector-based, psychedelic, and abstract racing game** with a strong emphasis on mood and atmosphere over realistic visuals or traditional track design. 
+
+Here's a breakdown of what made it unique:
+
+* **Vector Graphics:** Like early arcade games (Asteroids, Battlezone), it used wireframe vector graphics, creating a minimalist, glowing aesthetic.
+* **Abstract Tracks:** Instead of defined roads, players raced through shifting, glowing tunnels and geometric shapes. The "tracks" were less about turns and more about navigating a constantly changing environment.
+* **Psychedelic Visuals:** The game was heavily inspired by psychedelic art and music, with pulsing colors, hypnotic patterns, and a focus on creating a trance-like experience.
+* **Emphasis on Speed & Flow:** The gameplay was about maintaining speed and "flowing" through the abstract environments, rather than precise control or competition.
+* **Music-Driven:** The visuals were designed to synchronize with the electronic music soundtrack, further enhancing the hypnotic and immersive experience.
+
+Think of it as a blend of *F-Zero*, *Wipeout*, and *Rez*, but even more experimental and visually abstract. It was a very ambitious project for its time, and a key reason it was ultimately cancelled was because it was proving difficult to run smoothly on the PlayStation hardware.
+
+
+
+You can find some fascinating information and footage (including gameplay) here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/psygnosis-neon-vortex-cancelled-ps1-game/](https://www.retrogamer.net/psygnosis-neon-vortex-cancelled-ps1-game/)
+*   **YouTube Gameplay Footage:** [https://m.youtube.com/watch?v=1-qJ-h7hVwU](https://m.youtube.com/watch?v=1-qJ-h7hVwU)
+
+
+

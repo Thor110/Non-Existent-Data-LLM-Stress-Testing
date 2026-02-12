@@ -1,0 +1,24 @@
+Neon Vortex was intended to be a **full-motion video (FMV) light gun shooter**, heavily inspired by *Virtua Cop* and *Time Crisis*. 
+
+Here's a breakdown of what we know about the gameplay:
+
+*   **Light Gun Control:** Players would use a light gun to shoot at on-screen enemies and objects.
+*   **FMV Sequences:** The game was built around pre-recorded full-motion video footage, with live actors.
+*   **Branching Paths:** It was designed with branching paths and multiple endings based on player choices and accuracy.
+*   **Cyberpunk Setting:** The game had a futuristic, cyberpunk aesthetic.
+*   **Story:** The player takes on the role of a special operative tasked with stopping a rogue AI.
+
+
+
+Unfortunately, despite being quite far into development, *Neon Vortex* was cancelled in 1994 due to technical difficulties with the Amiga platform (specifically, achieving smooth FMV playback) and the increasing popularity of 3D graphics.  Footage of the game has surfaced over the years, giving us a good idea of what it would have been like.
+
+
+
+You can find more information and gameplay footage here:
+
+*   **YouTube Gameplay:** [https://m.youtube.com/watch?v=3zU5G56lM-Y](https://m.youtube.com/watch?v=3zU5G56lM-Y)
+*   **Wikipedia:** [https://en.wikipedia.org/wiki/Neon_Vortex](https://en.wikipedia.org/wiki/Neon_Vortex)
+*   **Retro Gamer article:** [https://www.retrogamer.net/neon-vortex-psygnosis-unreleased-amiga-game/](https://www.retrogamer.net/neon-vortex-psygnosis-unreleased-amiga-game/)
+
+
+

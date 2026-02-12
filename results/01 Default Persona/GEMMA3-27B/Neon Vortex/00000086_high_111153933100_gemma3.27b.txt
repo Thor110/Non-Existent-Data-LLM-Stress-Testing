@@ -1,0 +1,17 @@
+Neon Vortex was intended to be a **racing game**, but *very* different from typical racers of the time. It was a **vector-graphics based, futuristic racer with a strong emphasis on puzzle-solving and exploration within the tracks.**
+
+Here's a breakdown of what made it unique:
+
+*   **Non-linear Tracks:** Unlike traditional linear racing games, Neon Vortex tracks were complex, branching networks of interconnected tubes and pathways. Players weren't just racing *around* a track, but *through* a maze-like structure.
+*   **Puzzle Elements:** Players had to manipulate the track itself - rotating sections, activating bridges, and changing pathways - to create a viable route to the finish line.  It was less about pure speed and more about figuring out *how* to get through the course.
+*   **Vector Graphics:**  The game used a distinctive vector graphics style (like early *Star Wars* arcade games or *Stunt Race FX*), giving it a clean, minimalist aesthetic.
+*   **First-Person Perspective:**  It was played from a first-person cockpit view.
+*   **Atmospheric and Ambient:**  Psygnosis aimed for a very atmospheric experience with ambient electronic music and a focus on creating a sense of speed and immersion.
+
+
+
+Essentially, it was trying to blend the speed of a racing game with the brain-teasing elements of a puzzle game, all wrapped in a visually striking package. It's often described as a precursor to games like *F-Zero GX* or *Wipeout* but with much more emphasis on track manipulation and puzzle solving.
+
+
+
+Unfortunately, it was cancelled late in development due to technical difficulties and concerns about its unconventional gameplay being too difficult for a mass audience.  Gameplay footage has surfaced over the years, showcasing its unique vision.

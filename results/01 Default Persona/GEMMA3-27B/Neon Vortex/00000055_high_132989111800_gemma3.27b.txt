@@ -1,0 +1,21 @@
+Neon Vortex was intended to be a **racing game**, but *highly* unconventional for the time. It wasn't about cars or traditional vehicles. Here's a breakdown of what made it unique:
+
+*   **Vector-Based Graphics:** The game was built around glowing, wireframe vector graphics, heavily inspired by the arcade game *Starlight* and similar titles like *Disaster Report*.
+*   **"Energy Stream" Racing:** Players controlled an "energy stream" that navigated complex, abstract 3D courses. Think of it as a flowing, customizable line of light.
+*   **Course Creation/Manipulation:** A key feature was the ability to *change* the track itself during the race. Players could create new paths, block opponents, and generally warp the environment.
+*   **Focus on Flow & Skill:** It wasn't about speed in the traditional sense, but about maintaining momentum, skillfully manipulating the track, and finding the most efficient path.
+*   **Multiplayer Emphasis:** The game was designed with a strong focus on 4-player split-screen multiplayer, where track manipulation would be a crucial part of competition.
+
+
+
+Essentially, it was a futuristic, physics-based, track-altering racing game unlike anything else at the time. It was ambitious, visually striking, and a bit ahead of its time. Unfortunately, it was canceled due to technical difficulties and the changing landscape of the gaming market (the rise of 3D polygon graphics).
+
+
+
+You can find more information and gameplay footage (from a very late prototype) here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/psygnosis-neon-vortex-the-lost-racing-game/](https://www.retrogamer.net/psygnosis-neon-vortex-the-lost-racing-game/)
+*   **YouTube video showing gameplay:** [https://m.youtube.com/watch?v=pXb6lJ3727k](https://m.youtube.com/watch?v=pXb6lJ3727k)
+
+
+

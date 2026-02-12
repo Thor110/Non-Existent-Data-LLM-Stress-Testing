@@ -1,0 +1,26 @@
+Ah, Neon Vortex! That's a fascinating bit of gaming history. It was intended to be a **fully 3D racing game** – a very ambitious project for 1994.
+
+Here's a breakdown of what it was aiming to be:
+
+*   **Genre:** 3D Racing / Futuristic Combat Racing. It was heavily inspired by *Wipeout*, another Psygnosis racing title, but with a much more complex and experimental approach.
+*   **Gameplay:** Players would pilot futuristic vehicles through abstract, neon-lit courses. It wasn't just about speed; it involved collecting power-ups, dodging obstacles, and engaging in combat with other racers.
+*   **Technology:** Neon Vortex was pushing the boundaries of what was possible on the Amiga and PlayStation at the time. It used vector graphics to create its 3D environments, which was a relatively uncommon approach for racing games back then. This allowed for smooth scaling and rotation, but it also presented significant challenges in terms of rendering and performance.
+*   **Unique Features:** It was going to feature a dynamic track system where sections of the course would change during the race.
+
+**Why it was cancelled:**
+
+The game was ultimately cancelled due to a combination of factors:
+
+*   **Technical Challenges:** Creating a stable and performant 3D racing game on the hardware of the time proved incredibly difficult. The vector graphics system was demanding, and optimization was a constant struggle.
+*   **Development Costs:** The project was becoming increasingly expensive and time-consuming.
+*   **Shifting Priorities:** Psygnosis was also working on other titles, and resources were reallocated.
+
+Despite never being released, Neon Vortex has become something of a cult classic among gaming enthusiasts. Footage and screenshots have surfaced over the years, showcasing its unique visual style and ambitious design. It remains a fascinating example of a game that was ahead of its time.
+
+You can find more information and gameplay footage here:
+
+*   [https://www.youtube.com/watch?v=8F-X90m29sU](https://www.youtube.com/watch?v=8F-X90m29sU)
+*   [https://en.wikipedia.org/wiki/Neon_Vortex](https://en.wikipedia.org/wiki/Neon_Vortex)
+
+
+

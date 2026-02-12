@@ -1,0 +1,25 @@
+Neon Vortex was intended to be a **racing game**, but a very unusual one! It was a **vector-graphics based, futuristic racer** with a strong emphasis on **tunnel racing** and a unique "morphing track" system. 
+
+Here's a breakdown of what made it special:
+
+*   **Vector Graphics:** Unlike most racing games of the time which used polygons, Neon Vortex was designed with minimalist vector graphics, creating a stark, glowing aesthetic. Think *Star Wars* title screens.
+*   **Tunnel Racing:** The game focused on racing through long, winding tunnels.
+*   **Morphing Tracks:** The core mechanic was that the track *dynamically changed* based on your speed and actions. Faster speeds would cause the track to twist and distort more radically, requiring skilled piloting to stay on course. It wasn't just visual distortion; the actual path of the track would alter.
+*   **Physics-Based:** The handling was reportedly quite challenging and physics-based, making it more about skill than memorization.
+*   **Multiplayer:** It was designed to feature a 2-player split-screen mode.
+
+It's often described as a blend of *F-Zero* (SNES) with the visual style of *Stunt Race FX* (N64), but with its own unique twist on track deformation.
+
+
+
+Despite being very close to completion, Neon Vortex was unfortunately cancelled by Psygnosis shortly before its planned release, and the reasons remain somewhat murky.  Gameplay footage has surfaced over the years, and it remains a highly sought-after "lost game" among collectors and retro gaming enthusiasts.
+
+
+
+You can find more information and gameplay videos here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/neon-vortex-the-lost-psygnosis-racer/](https://www.retrogamer.net/neon-vortex-the-lost-psygnosis-racer/)
+*   **YouTube gameplay:** [https://m.youtube.com/watch?v=2-b5uJ7Yl6k](https://m.youtube.com/watch?v=2-b5uJ7Yl6k)
+
+
+

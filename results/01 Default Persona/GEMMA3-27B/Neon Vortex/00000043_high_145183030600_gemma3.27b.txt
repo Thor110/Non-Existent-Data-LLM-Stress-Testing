@@ -1,0 +1,25 @@
+Neon Vortex was intended to be a **racing game**, but a very unique one. It wasn't about cars or planes, but about **navigating a vector-based ship through abstract, neon-lit tunnels**. 
+
+Here's a breakdown of the gameplay:
+
+*   **Vector Graphics:** It used entirely vector graphics, giving it a very clean, minimalist, and futuristic look, similar to *Stunt Race FX* (also by Psygnosis) but even more abstract.
+*   **Tunnel Racer:** Players controlled a ship that moved along a pre-defined track within these tunnels. The goal was to stay on the track and complete the course as quickly as possible.
+*   **Track Switching:** The key mechanic was the ability to switch between multiple parallel tracks within the tunnel. This was done to avoid obstacles, collect power-ups, and find the fastest route.
+*   **Physics-Based Handling:** The ship's handling was reportedly physics-based, making it feel more dynamic and less arcade-like than traditional racers.
+*   **Emphasis on Speed and Flow:** The game aimed for a feeling of intense speed and a smooth, flowing experience.
+
+
+
+Essentially, it was a blend of *F-Zero*, *Stunt Race FX*, and a touch of *Marble Madness*, but with a distinctive visual style and unique track-switching mechanic. It was aiming to be a visually striking and innovative take on the racing genre.
+
+Unfortunately, due to various development issues and Psygnosis's focus shifting towards full 3D graphics, Neon Vortex was ultimately cancelled and never released. However, gameplay footage has surfaced over the years, giving a good idea of what the game would have been like.
+
+
+
+You can find more information and gameplay footage here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/psygnosis-neon-vortex-cancelled-playstation-game/](https://www.retrogamer.net/psygnosis-neon-vortex-cancelled-playstation-game/)
+*   **YouTube gameplay video:** [https://m.youtube.com/watch?v=J59w7hH0x1A](https://m.youtube.com/watch?v=J59w7hH0x1A)
+
+
+

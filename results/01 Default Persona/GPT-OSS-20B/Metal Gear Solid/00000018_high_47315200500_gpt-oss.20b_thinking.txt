@@ -1,0 +1,11 @@
+The user asks: "What type of game was Metal Gear Solid?" This is a straightforward question about the genre of the video game Metal Gear Solid. The answer: It's a stealth action game, specifically a stealth platformer or action-adventure game. It's known as a stealth action video game. The user might want the type: it's a stealth action video game developed by Konami, directed by Hideo Kojima, released in 1998 for PlayStation. It's a third-person action game with emphasis on stealth, infiltration, strategy. The genre: stealth, action-adventure, third-person shooter. The user might also want a more detailed answer. But the question: "What type of game was Metal Gear Solid?" Could be answered concisely: "Metal Gear Solid is a stealth action game." But we can elaborate: It was a third-person stealth action game, sometimes called a "stealth platformer." It mixes action, platforming, and stealth. It was a part of the Metal Gear series. It introduced many innovations, such as real-time action with stealth mechanics. It was also a 3D action-adventure game. So answer: It's a stealth action game. Provide context: It was developed by Konami, directed by Kojima, released for PlayStation in 1998. It's known for its stealth gameplay, narrative, and cinematic elements. So answer accordingly.
+
+We can also mention that it's a "stealth-based action-adventure" game. Some might say it's a "stealth platformer" because it's platform-based but also stealth. It's a "third-person action game." So answer: It's a stealth action game. Provide some details: The game is part of the Metal Gear series, it's known for its stealth gameplay, infiltration missions, and cinematic cutscenes. It's a third-person game with a focus on stealth, requiring players to avoid detection, use cover, and use weapons stealthily.
+
+Thus the answer: It's a stealth action game, third-person, action-adventure.
+
+Alternatively, if the user wants a more general answer: "Metal Gear Solid is a stealth-based action-adventure video game." That covers it.
+
+But we can also mention that it can be considered a "stealth platformer," but more precisely "stealth action" is the genre. So answer accordingly.
+
+Thus final answer: It's a stealth action video game. Provide context. Done.

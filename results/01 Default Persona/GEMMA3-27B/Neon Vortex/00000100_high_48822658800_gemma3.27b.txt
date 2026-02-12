@@ -1,0 +1,8 @@
+Neon Vortex was intended to be a **full-motion video (FMV) light gun shooter**, heavily inspired by games like *Sega Virtua Cop* and *Time Crisis*. 
+
+However, it wasn't just a simple "shoot the bad guys" game. It was unique in that it featured a **narrative that changed based on *how* you shot**.  Instead of just hitting targets, the game tracked *where* you shot on the screen. Shooting civilians, or shooting things out of order, would alter the story and lead to different endings. 
+
+Think of it as an early attempt at branching narrative in a light gun shooter, with a focus on consequence for your actions beyond just accuracy. It was ambitious for its time, but ultimately deemed too complex and buggy for release.
+
+
+

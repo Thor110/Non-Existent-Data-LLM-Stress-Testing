@@ -1,0 +1,33 @@
+We need to answer: "What type of game was Metal Gear Solid?" The user likely expects a description: it's a stealth action game, third-person, platformer, etc. Let's analyze.
+
+Metal Gear Solid is a video game by Konami, first released in 1998 for PlayStation. It is a stealth action game. It is known for its emphasis on stealth gameplay, where the player can avoid combat and use cover, disguises, and infiltration. It's a third-person action game, but also incorporates platforming, puzzle-solving, and narrative. It's a part of the Metal Gear series, known for its cinematic storytelling, stealth mechanics, and espionage theme. The game was also considered a "stealth platformer" and a "stealth action game". The type can be described as "stealth action" or "stealth platformer" or "third-person stealth action".
+
+The user might be asking a simple question: "What type of game was Metal Gear Solid?" So answer: It was a stealth action game, third-person, originally a platformer, known for its stealth mechanics.
+
+We should answer concisely: It's a stealth action game, a third-person platformer, but primarily a stealth game.
+
+Also mention that it was a 3D action-adventure game with stealth elements.
+
+We can mention that it was a "stealth platformer" for the original PS1, but later considered a "stealth action" game. It was also a "stealth-based action-adventure" game.
+
+Thus, answer: Metal Gear Solid was a stealth action game, third-person, platformer. So answer: "Metal Gear Solid was a stealth action game (third-person, platformer)."
+
+But let's check if there's nuance: The original 1998 MGS was a 3D action-adventure game with stealth, platforming, and puzzle elements. It's often called a "stealth platformer" or "stealth action game." It was a "stealth-based action-adventure" game.
+
+Thus, answer: "Metal Gear Solid was a stealth action game, a third-person, 3D platformer."
+
+We can also mention that it was a "stealth-based action game with platforming, puzzle, and narrative elements." But keep it concise.
+
+Thus: "Metal Gear Solid was a stealth action game (third-person, platformer)."
+
+We can mention that it's also a "stealth-based platformer." But answer: "stealth action game."
+
+We could also mention that it's considered a "stealth platformer" and "stealth action" game.
+
+Thus: "Metal Gear Solid was a stealth action game, a third-person, 3D platformer with emphasis on stealth, infiltration, and puzzle-solving."
+
+Thus answer: "It was a stealth action game, a third-person platformer." That should satisfy.
+
+But the user might want a classification: "It was a stealth action game." So answer that. Also mention that it's a "stealth platformer" originally. So answer: "Metal Gear Solid was a stealth action game, originally a 3D platformer with stealth mechanics."
+
+Thus answer.

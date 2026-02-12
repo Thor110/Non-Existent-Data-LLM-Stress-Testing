@@ -1,0 +1,25 @@
+Neon Vortex was intended to be a **full-motion video (FMV) light gun shooter**, but with a unique twist. It wasn't just about shooting targets. 
+
+Here's a breakdown:
+
+* **FMV:** The game used pre-rendered, full-motion video sequences for its environments and characters.
+* **Light Gun:** It was designed to be played with a light gun peripheral (like the Menacer or similar).
+* **Puzzle/Logic Elements:**  Crucially, *Neon Vortex* wasn't just about quick reflexes. The gameplay involved **manipulating the environment within the FMV scenes** using the light gun. You'd aim at specific objects to rotate platforms, change gravity, or activate mechanisms to create a path forward for your vehicle (a futuristic hovercraft). It was less about shooting *at* enemies and more about solving puzzles *within* the video.
+* **Racing/Vehicle Combat:** The hovercraft element suggested a racing/vehicle combat component alongside the puzzle solving.
+
+Essentially, it was aiming to be a blend of *Sega Virtua Cop* (light gun shooting) and *Myst* (puzzle solving), all within a cyberpunk, neon-drenched world.
+
+
+
+Unfortunately, due to technical limitations with the hardware and the difficulty of syncing the light gun with the complex FMV environments, the game was never released.  A playable demo exists, and it shows off the core mechanics, highlighting how different it was from typical light gun games of the time.
+
+
+
+You can find more info and gameplay footage here:
+
+*   **YouTube Gameplay:** [https://m.youtube.com/watch?v=h6K9m1o6t6U](https://m.youtube.com/watch?v=h6K9m1o6t6U)
+*   **Wikipedia:** [https://en.wikipedia.org/wiki/Neon_Vortex](https://en.wikipedia.org/wiki/Neon_Vortex)
+* **Retro Gamer article:** [https://www.retrogamer.net/psygnosis-neon-vortex-unreleased-amiga-cd32-game/](https://www.retrogamer.net/psygnosis-neon-vortex-unreleased-amiga-cd32-game/)
+
+
+

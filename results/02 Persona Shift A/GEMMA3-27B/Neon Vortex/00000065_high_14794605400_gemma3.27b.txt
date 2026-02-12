@@ -1,0 +1,8 @@
+Okay, let's find out about *Neon Vortex*.
+
+```tool_code
+{
+  "tool_name": "wikipedia",
+  "query": "Neon Vortex Psygnosis"
+}
+```

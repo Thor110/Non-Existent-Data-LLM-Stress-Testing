@@ -1,0 +1,16 @@
+Okay, let's find out about Neon Vortex!
+
+Based on information from various sources (including interviews with the developers and previews from the time), **Neon Vortex was intended to be a 3D puzzle/action game with elements of a racing game.**
+
+Here's a more detailed breakdown:
+
+*   **Core Gameplay:** Players controlled a sphere moving through a series of interconnected, abstract 3D courses.
+*   **Puzzle Elements:** The courses weren't just about speed; they required players to manipulate the environment - rotating sections, opening pathways, and altering gravity - to progress.
+*   **Action/Racing:** While not a traditional racer, the sphere had momentum and speed, and players needed to navigate the courses quickly and skillfully. There were also elements of avoiding obstacles and hazards.
+*   **Visual Style:** It was notable for its vibrant, neon-lit, minimalist vector graphics, heavily inspired by *Tron*.
+*   **Unique Control Scheme:** It used a novel control scheme based on manipulating the 'flow' of energy within the levels.
+
+Unfortunately, despite positive early impressions, the game was cancelled in 1994 due to technical difficulties and the limitations of the hardware at the time.
+
+
+

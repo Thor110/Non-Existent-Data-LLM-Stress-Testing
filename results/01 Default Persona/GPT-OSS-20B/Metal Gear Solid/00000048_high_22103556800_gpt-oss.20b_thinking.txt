@@ -1,0 +1,7 @@
+The user asks: "What type of game was Metal Gear Solid?" They likely want to know the genre of Metal Gear Solid. The answer: it's a stealth action-adventure game, first-person or third-person? It's a stealth action-adventure, third-person, action game with stealth elements. It's a third-person stealth action game, part of the Metal Gear series. So answer: it's a stealth action-adventure game, a third-person action game with stealth mechanics. Also could mention it's a "stealth game" and "action game". So answer: stealth action-adventure.
+
+We should respond concisely. But maybe they want a more detailed answer: It was a stealth action game developed by Konami, first-person? Actually the original 1998 game is a third-person stealth action game. It was a third-person action-adventure game with stealth. It's also a cinematic action game. So answer: stealth action-adventure.
+
+Thus answer: "Metal Gear Solid was a third-person stealth action-adventure game." Or "Metal Gear Solid was a stealth action game".
+
+Thus I will answer accordingly.

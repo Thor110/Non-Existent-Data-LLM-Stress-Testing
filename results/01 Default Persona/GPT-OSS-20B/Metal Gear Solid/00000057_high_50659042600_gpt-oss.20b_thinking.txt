@@ -1,0 +1,31 @@
+We need to answer: "What type of game was Metal Gear Solid?" The user presumably wants a concise answer: Metal Gear Solid is a stealth action-adventure game, also a third-person shooter. But we should elaborate: It's a stealth-based action-adventure game developed by Konami, part of the Metal Gear series, known for its stealth mechanics, narrative, cinematic cutscenes, and third-person perspective. The question: "What type of game was Metal Gear Solid?" It's a game type classification: It's a stealth action game, third-person shooter, action-adventure, and maybe also a tactical shooter. But the main classification: stealth action-adventure game. It was released for PlayStation, etc.
+
+We can answer: "Metal Gear Solid was a stealth action-adventure game, also a third-person shooter." But we can add some context: It is part of the Metal Gear series, known for stealth gameplay, cinematic storytelling, and third-person perspective. It is also a platformer? No, it's a stealth action. The question might be from someone who hasn't played it. So we can give a short answer: "It was a stealth-based third-person action game."
+
+We could also mention that it's a "stealth action-adventure game" with "third-person shooter" elements. It's a "stealth action game" that emphasizes infiltration and avoidance of detection.
+
+We might also mention that it was originally released as a third-person shooter with stealth elements, but also considered an action-adventure.
+
+Thus answer: "Metal Gear Solid was a stealth action-adventure game (third-person shooter)."
+
+But we can also mention the developer: Konami, etc. But the question: "What type of game was Metal Gear Solid?" So answer: "Metal Gear Solid was a stealth action game, third-person shooter, action-adventure."
+
+Alternatively, we can phrase: "Metal Gear Solid was a stealth-based third-person action-adventure game." That covers it.
+
+We can also mention that it is a "platformer"? No.
+
+Thus final: "Metal Gear Solid was a stealth action-adventure game, featuring third-person shooting and infiltration gameplay."
+
+We might also mention that it's a "stealth action" game that uses stealth mechanics, third-person perspective, cinematic cutscenes, and is part of the Metal Gear series.
+
+Let's produce a concise answer: "Metal Gear Solid was a stealth-based third-person action game (action-adventure)."
+
+We can also mention that it was a "stealth action-adventure" game, known for its cinematic storytelling and third-person shooter mechanics.
+
+Thus final answer: "Metal Gear Solid was a stealth action-adventure game (third-person shooter)."
+
+We might also mention that it's a "stealth-based third-person shooter" which is the type.
+
+So final: "Metal Gear Solid was a stealth action-adventure game, a third-person shooter."
+
+We'll produce that.

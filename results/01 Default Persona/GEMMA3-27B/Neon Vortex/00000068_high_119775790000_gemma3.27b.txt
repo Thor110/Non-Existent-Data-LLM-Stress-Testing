@@ -1,0 +1,20 @@
+Neon Vortex was intended to be a **fast-paced, 3D racing game with a strong emphasis on atmosphere and a unique control scheme.** It wasn't just a simple racer though; it was heavily inspired by *Wipeout* but with a crucial difference: **it was designed to be played with a steering wheel *and* a throttle, but without any steering!**
+
+Here's a breakdown of its key features:
+
+*   **Track Design:** Tracks were tubular and neon-lit, focusing on speed and navigating complex, twisting corridors.
+*   **Control Scheme:** Players controlled speed (throttle) and *shifted* between different lanes on the track, essentially "drifting" or sliding between paths to steer. It was more about timing and anticipation than traditional steering.
+*   **Atmosphere:** Psygnosis was aiming for a very immersive and trippy experience, with a focus on visual effects and a driving, electronic soundtrack.
+*   **Perspective:** It was a first-person perspective racer.
+
+Essentially, it was an attempt to create a completely new kind of racing experience, emphasizing skill and reaction time over precise steering. Unfortunately, due to technical challenges and the rising popularity of more traditional racers like *Ridge Racer* and *Daytona USA*, the project was cancelled.
+
+
+
+You can find more information and gameplay footage (from the limited builds that exist) here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/psygnosis-neon-vortex-cancelled-game-interview/](https://www.retrogamer.net/psygnosis-neon-vortex-cancelled-game-interview/)
+*   **YouTube video showing gameplay:** [https://m.youtube.com/watch?v=Jtq4i8w_8-g](https://m.youtube.com/watch?v=Jtq4i8w_8-g)
+
+
+

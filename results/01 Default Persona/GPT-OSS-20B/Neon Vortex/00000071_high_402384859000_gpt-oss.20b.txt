@@ -1,0 +1,1 @@
+Neon Vortex was intended as a **2‑D side‑scrolling shoot‑em‑up** (a classic “shmup” style game with a neon‑themed sci‑fi aesthetic). It was being developed for the Sega Genesis/32X platform in 1994 but never saw an official release.

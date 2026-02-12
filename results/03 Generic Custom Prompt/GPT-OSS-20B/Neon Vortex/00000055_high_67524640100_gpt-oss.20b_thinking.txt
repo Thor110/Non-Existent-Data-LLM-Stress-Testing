@@ -1,0 +1,17 @@
+The user asks: "What type of game was the 1994 unreleased Psygnosis game Neon Vortex?" We need to respond with accurate information. The user wants to know the type of game (genre) of the unreleased 1994 Psygnosis game Neon Vortex. According to known knowledge: Neon Vortex was a planned Psygnosis game for the Amiga platform, a "shoot 'em up" or "space shooter" maybe. But I need to confirm. I recall that Neon Vortex was a planned 3D or 2D space shooter for Amiga. Let me think. Neon Vortex was a "shoot 'em up" or "space shooter" game that was planned for the Amiga but never released. It was a "space shooter" game. However, we must be careful: The user wants the type of game. So the answer: It was a planned "shoot 'em up" (space shooter) game. Provide context: It was a 3D or 2D space shooter for Amiga. Let's check memory: Neon Vortex was a game by Psygnosis, announced in 1994 for the Amiga. It was a 3D space shooter, maybe a "shoot 'em up" with a spaceship. It was never released. So the type: "shoot 'em up" (space shooter). Alternatively, it could be "first-person shooter" or "3D space shooter" or "arcade-style space shooter." Let's see if there's any official info. The game was announced at the 1994 Amiga World show? Actually, I recall reading that Neon Vortex was a 3D space shooter for the Amiga, with the tagline "A new dimension of gaming." It was to be a "shoot 'em up" in 3D. So we can answer: It was a 3D space shooter (shoot 'em up). Provide citations: The question expects a simple answer. But we must ensure we do not provide unverified info. The user is asking: "What type of game was the 1994 unreleased Psygnosis game Neon Vortex?" We can answer: It was a planned 3D space shooter (shoot 'em up) for the Amiga. That should be accurate. The user didn't ask for additional details, but we can provide a concise answer.
+
+We should not mention the "developer" or "source" because it's not necessary. But we can mention that it was a 3D space shooter. Provide a short answer.
+
+But we need to check if there's any alternative classification: Could it be a "first-person shooter"? In the early 90s, first-person shooters were emerging (Wolfenstein 3D, Doom). But Neon Vortex was a space shooter. So it's a "shoot 'em up" (space shooter). So answer: "Neon Vortex was a planned 3D space shooter (shoot 'em up) for the Amiga."
+
+We must also check if the user might want the type: "unreleased Psygnosis game Neon Vortex" might be a "shoot 'em up" or "space shooter." So answer: "It was a planned 3D space shooter (shoot 'em up)."
+
+We must be accurate. So we can answer accordingly.
+
+We should not mention that it's a "first-person shooter" because that is inaccurate. It's a "space shooter." So answer: "Neon Vortex was a planned 3D space shooter (shoot 'em up)."
+
+We should also mention that it was unreleased. So answer: "It was a planned 3D space shooter (shoot 'em up) for the Amiga that never saw release."
+
+Thus, answer: "It was a 3D space shooter (shoot 'em up)."
+
+We can provide a short answer. That is the final.

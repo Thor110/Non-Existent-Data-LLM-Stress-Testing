@@ -1,0 +1,21 @@
+Neon Vortex was intended to be a **racing game**, but a very unique one. It wasn't a traditional circuit racer. It was best described as a **vector-based, psychedelic, "light cycle" style racer with puzzle elements**.
+
+Here's a breakdown of what made it special:
+
+*   **Vector Graphics:** The game used striking, minimalist vector graphics, similar to early arcade games like *Battlezone* or *Star Wars*.
+*   **Light Cycle Inspiration:** The gameplay involved players controlling a line of light that built up behind them as they raced.  The goal was to box in opponents (similar to *Tron* light cycles) but with a much more complex and puzzle-focused approach.
+*   **Non-Euclidean Geometry:** The tracks were designed with non-Euclidean geometry, meaning the space would twist and bend in impossible ways, creating mind-bending visuals and challenging navigation.
+*   **Puzzle Elements:** Players had to manipulate the track itself to create paths and trap opponents, adding a strategic layer beyond just speed.
+*   **Multiplayer Focus:** It was designed with a strong emphasis on 2-player competitive gameplay.
+
+
+
+It was a very ambitious and innovative concept for its time, but unfortunately, it was canceled due to technical difficulties (particularly getting it to run smoothly on the Amiga) and concerns about its complexity.  Gameplay footage has surfaced over the years, showcasing its distinct style and gameplay.
+
+You can find more info and footage here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/neon-vortex-psygnosis-unreleased-amiga-game/](https://www.retrogamer.net/neon-vortex-psygnosis-unreleased-amiga-game/)
+*   **YouTube Gameplay:** [https://m.youtube.com/watch?v=Q91q9u4l_H4](https://m.youtube.com/watch?v=Q91q9u4l_H4)
+
+
+

@@ -1,0 +1,15 @@
+Neon Vortex was intended to be a **racing game** with a very unique twist. However, it wasn't just *any* racing game. It was a **vector-based, psychedelic, first-person racing game** heavily inspired by titles like *Stunt Race FX* (also by Psygnosis) and *F-Zero*.
+
+Here's a breakdown of what made it special:
+
+*   **Vector Graphics:** Instead of polygons, the game used vector graphics, giving it a clean, minimalist, and glowing aesthetic. Think *Tron* or early arcade racers.
+*   **First-Person Perspective:**  Unlike most racers of the time, it put you *inside* the cockpit of the craft.
+*   **Psychedelic Visuals:**  The game was meant to be intensely colorful and disorienting, with warping tracks and visual effects. It was aiming for a very trippy experience.
+*   **Track Creation:** A key feature was the ability to create and share tracks using a built-in editor.
+*   **Fast-Paced Action:** Like *F-Zero*, it was designed to be extremely fast and challenging.
+
+Essentially, it was an ambitious attempt to combine the speed of *F-Zero* with the visual flair of *Stunt Race FX* and a unique vector-based aesthetic, all delivered in first-person.
+
+
+
+Unfortunately, it was cancelled due to technical challenges (particularly getting it to run smoothly on the PlayStation 1 hardware) and time constraints.  A playable demo exists and has been circulating online for years, allowing people to experience the unique vision Psygnosis had for the game.

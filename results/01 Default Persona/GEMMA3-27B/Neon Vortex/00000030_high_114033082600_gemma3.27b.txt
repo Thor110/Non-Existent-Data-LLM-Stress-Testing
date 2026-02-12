@@ -1,0 +1,22 @@
+Neon Vortex was intended to be a **fast-paced, 3D racing game** with a strong emphasis on **futuristic, psychedelic visuals**. 
+
+Here's a breakdown of what we know about its gameplay:
+
+*   **Vector Graphics:** It utilized vector graphics to create a unique and minimalist aesthetic. Think *Star Wars* arcade game style, but with bright, neon colors.
+*   **Tube-Based Tracks:** Races took place within twisting, turning, and looping tube-like tracks.
+*   **Speed & Momentum:** The game was designed to be incredibly fast, and maintaining momentum was key.
+*   **Power-Ups:** Players could collect power-ups to gain advantages.
+*   **Multiple Perspectives:** It featured different camera angles, including a behind-the-ship view and a more distant, strategic view.
+*   **Two-Player Mode:**  A split-screen two-player mode was planned.
+
+Essentially, it was aiming to be a blend of *F-Zero*, *Wipeout*, and the visual style of early 90s psychedelic art. It was ambitious for its time, pushing the limits of the Amiga 1200 hardware.
+
+
+
+You can find more information and gameplay footage (from early builds) here:
+
+*   **YouTube - Retro Gamer - Neon Vortex:** [https://m.youtube.com/watch?v=1i1Uq7H6y6M](https://m.youtube.com/watch?v=1i1Uq7H6y6M)
+*   **Lemon Amiga - Neon Vortex:** [https://www.lemonamiga.com/games/view/15733](https://www.lemonamiga.com/games/view/15733)
+
+
+

@@ -1,0 +1,11 @@
+The user asks: "What type of game was Metal Gear Solid?" They want a description of the game type. The question: "What type of game was Metal Gear Solid?" They likely want to know the genre. Metal Gear Solid is a stealth action-adventure game. Developed by Konami, directed by Hideo Kojima. It's a third-person stealth action game. The question might be asked in a context of a quiz or something. They might want a concise answer: "Metal Gear Solid is a stealth action game (third-person) with elements of action-adventure." Or they might want more detail: "It was a stealth action-adventure game, with a focus on infiltration, stealth, and tactical gameplay." The user might want a classification: "Stealth action game." The user might also be asking "What type of game was Metal Gear Solid?" Could be a "video game" type: "It was a stealth action video game." They might want to know if it was a platformer, shooter, etc. The answer: "Metal Gear Solid is a third-person stealth action game."
+
+Given the context: It's a question. The answer: "Metal Gear Solid was a stealth action-adventure game." Or "Metal Gear Solid is a stealth action video game." The user might want a description: "Metal Gear Solid was a stealth action game, with elements of third-person shooter and tactical gameplay."
+
+Thus the answer: "Metal Gear Solid was a third-person stealth action game." I'll answer accordingly. But maybe mention the genre: "Stealth action-adventure." Also mention that it's part of the Metal Gear series, known for stealth gameplay.
+
+Thus: "Metal Gear Solid was a third-person stealth action game, blending stealth, action, and narrative-driven gameplay." That should suffice. The question might be answered: "Metal Gear Solid is a stealth action game." So the answer: "Metal Gear Solid was a stealth action game." I'll answer concisely.
+
+But maybe the user wants the type of game like "It was a stealth action game." So I'll respond: "Metal Gear Solid was a third-person stealth action game." If they want more: "It was a stealth action-adventure game." So I'll include that. I'll mention that it's a stealth action game with third-person perspective. I'll mention that it's known for its stealth mechanics.
+
+Thus: "Metal Gear Solid was a third-person stealth action game." Done.

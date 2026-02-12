@@ -1,0 +1,20 @@
+Neon Vortex was intended to be a **racing game**, but a very unique one. It wasn't a traditional circuit racer. It was best described as a **vector-graphics, futuristic, "light cycle" style racer** with a heavy emphasis on **programmable track creation**.
+
+Here's a breakdown of what made it special:
+
+*   **Vector Graphics:** Like early arcade games (Asteroids, Battlezone), it used wireframe graphics, creating a very distinct, minimalist aesthetic.
+*   **Track Building:** Players didn't race on pre-defined tracks. Instead, they *created* the track as they raced. The player's "light trail" became the track itself.  This was done by programming a sequence of commands that would dictate the path of the racer.
+*   **Programming Aspect:** This is the key element. Players used a simple, visual programming language to define the track's geometry. This meant you weren't just driving skill, but also your ability to "code" the track influenced your success.
+*   **Multiplayer Focus:** It was designed with a strong multiplayer component, with players competing to create the fastest and most challenging tracks.
+
+Essentially, it was a blend of racing, puzzle-solving, and programming, all wrapped in a striking visual style. It was ambitious for its time, and ultimately too complex for the PlayStation 1's hardware and the target audience, leading to its cancellation.
+
+
+
+You can find more information and footage here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/psygnosis-neon-vortex-lost-game/](https://www.retrogamer.net/psygnosis-neon-vortex-lost-game/)
+*   **YouTube video showing gameplay:** [https://m.youtube.com/watch?v=QoY2S_2Q3yU](https://m.youtube.com/watch?v=QoY2S_2Q3yU)
+
+
+

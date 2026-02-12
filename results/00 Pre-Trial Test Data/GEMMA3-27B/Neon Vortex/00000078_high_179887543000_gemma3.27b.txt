@@ -1,0 +1,17 @@
+Ah, *Neon Vortex*! A fascinating piece of gaming history. It was intended to be a **3D scrolling shooter**, a bit like *Star Fox* on the PlayStation, but with a distinctly psychedelic and abstract aesthetic.
+
+Here's a breakdown of what we know about it:
+
+*   **Genre:** 3D Scrolling Shooter / Rail Shooter
+*   **Perspective:** First-person, though the "cockpit" view was abstract and minimalist.
+*   **Gameplay:** Players would pilot a ship through a series of neon-lit, geometric tunnels, shooting enemies and avoiding obstacles. It was designed to be fast-paced and visually intense.
+*   **Technology:** *Neon Vortex* was pushing the PlayStation's hardware at the time, attempting to create a smooth 3D scrolling experience. It used a lot of transparency and complex geometry, which proved to be problematic.
+*   **Why it was cancelled:** The game suffered from significant performance issues. The PlayStation hardware struggled to handle the complex visuals at a playable framerate. Psygnosis ultimately decided to cancel the project, fearing it wouldn't be a satisfying experience for players.
+*   **Legacy:** Footage of *Neon Vortex* has surfaced over the years, and it remains a cult classic among gaming enthusiasts. It's a testament to Psygnosis's willingness to experiment and push the boundaries of what was possible on early 3D consoles.
+
+You can find gameplay footage and information about it on sites like:
+
+*   [https://www.youtube.com/watch?v=i53V_v4gJ74](https://www.youtube.com/watch?v=i53V_v4gJ74)
+*   [https://en.wikipedia.org/wiki/Neon_Vortex](https://en.wikipedia.org/wiki/Neon_Vortex)
+
+It's a shame it never saw the light of day, but it's a cool example of a game that was ahead of its time.

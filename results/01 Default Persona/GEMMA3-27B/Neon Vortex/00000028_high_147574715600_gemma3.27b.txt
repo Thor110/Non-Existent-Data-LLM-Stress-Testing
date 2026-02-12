@@ -1,0 +1,24 @@
+Neon Vortex was intended to be a **fast-paced, 3D racing game** with a strong emphasis on **vector graphics and psychedelic visuals**. 
+
+Here's a breakdown of the key aspects:
+
+*   **Racing:** Players controlled a ship-like vehicle racing through abstract, neon-lit courses.
+*   **3D Vector Graphics:**  It aimed to push the Amiga 1200's capabilities with smooth, scalable 3D graphics created using vector lines rather than sprites or polygons. This gave it a very distinct, futuristic look.
+*   **Psychedelic Visuals:** The game was heavily focused on bright, pulsating neon colors, swirling patterns, and a generally trippy aesthetic.  The "vortex" in the title referred to the visual effects and the sensation of speed.
+*   **Gameplay:** It was designed to be incredibly fast and challenging, requiring precise control and memorization of the courses.  Power-ups and obstacles were also planned.
+*   **Similar to:** Some describe it as a blend of *F-Zero* (SNES) and *Stunt Car Racer* (Amiga), but with a much more visually striking and abstract style.
+
+
+
+Unfortunately, despite being close to completion, *Neon Vortex* was cancelled by Psygnosis shortly before its planned release in 1994 due to concerns about the Amiga 1200's declining market share and the difficulty of porting the game to other platforms.  Only a demo and some gameplay footage have survived, but it has become a legendary "lost game" among Amiga enthusiasts.
+
+
+
+You can find gameplay footage and more information here:
+
+*   **YouTube - Neon Vortex Gameplay:** [https://m.youtube.com/watch?v=Ww8X0q78L9o](https://m.youtube.com/watch?v=Ww8X0q78L9o)
+*   **Wikipedia - Neon Vortex:** [https://en.wikipedia.org/wiki/Neon_Vortex](https://en.wikipedia.org/wiki/Neon_Vortex)
+*   **Amiga History - Neon Vortex:** [https://amigahistory.co.uk/neonvortex.html](https://amigahistory.co.uk/neonvortex.html)
+
+
+

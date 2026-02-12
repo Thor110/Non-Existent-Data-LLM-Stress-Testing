@@ -1,0 +1,21 @@
+Neon Vortex was intended to be a **fast-paced, 3D racing game** with a strong emphasis on **neon-lit, futuristic environments and a unique control scheme**. 
+
+Here's a breakdown of what we know about its gameplay:
+
+*   **Vector Graphics:** It used vector graphics to create a distinct visual style, similar to games like *Star Wars* arcade or *F-Zero*.
+*   **Rotational Movement:** Players controlled a ship that rotated around a central axis, and the track rotated around the player. This created a disorienting but exciting sense of speed.
+*   **Power-Ups:** It featured power-ups to help players gain an edge over opponents.
+*   **Multiplayer:** It was designed to support up to 8 players via a network.
+*   **Atmosphere:** The game aimed for a cyberpunk aesthetic with bright neon colors and a thumping soundtrack.
+
+Essentially, it was an attempt to push the boundaries of 3D racing on the Amiga, and it's often compared to *F-Zero* in terms of speed and intensity, but with a very different visual and control style.
+
+
+
+You can find more information and gameplay footage (from the few surviving builds) here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/psygnosis-neon-vortex-the-lost-amiga-racer/](https://www.retrogamer.net/psygnosis-neon-vortex-the-lost-amiga-racer/)
+*   **YouTube Gameplay:** [https://m.youtube.com/watch?v=p99kP06W8v8](https://m.youtube.com/watch?v=p99kP06W8v8)
+
+
+

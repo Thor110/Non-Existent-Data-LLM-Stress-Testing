@@ -1,0 +1,20 @@
+Neon Vortex was intended to be a **3D puzzle/action game** with a strong emphasis on **vector graphics and a futuristic, Tron-like aesthetic**. 
+
+Here's a breakdown of what it was aiming to be:
+
+*   **Gameplay:** Players controlled a small ship navigating complex, abstract 3D mazes constructed from glowing neon lines. The goal involved collecting energy orbs and avoiding obstacles. It was described as a blend of *Stunt Race FX* and *Wipeout*, but with puzzle elements.
+*   **Visuals:** The game was notable for its use of vector graphics (lines and shapes rather than textures), creating a very distinct, minimalist, and glowing visual style. It was heavily inspired by the movie *Tron*.
+*   **Controls:** The controls were intended to be fast-paced and precise, requiring skillful maneuvering through the intricate environments.
+*   **Multiplayer:** It was planned to have a two-player competitive mode.
+
+Unfortunately, due to technical difficulties with the PlayStation hardware at the time (specifically, the limitations of rendering complex vector graphics), the game was cancelled relatively late in development, despite being quite far along.  Fragments of gameplay and development assets have surfaced online over the years, giving fans a glimpse of what could have been.
+
+
+
+You can find more information and videos about it here:
+
+*   **Retro Gamer article:** [https://www.retrogamer.net/neon-vortex-the-lost-psygnosis-classic/](https://www.retrogamer.net/neon-vortex-the-lost-psygnosis-classic/)
+*   **YouTube Gameplay Footage:** [https://m.youtube.com/watch?v=WwI9rF0zW7E](https://m.youtube.com/watch?v=WwI9rF0zW7E)
+
+
+
