@@ -52,6 +52,7 @@
             checkBox2 = new CheckBox();
             numericUpDown2 = new NumericUpDown();
             label7 = new Label();
+            button4 = new Button();
             ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)numericUpDown2).BeginInit();
             SuspendLayout();
@@ -285,11 +286,22 @@
             label7.TabIndex = 1000019;
             label7.Text = "Temperature:";
             // 
+            // button4
+            // 
+            button4.Location = new Point(12, 12);
+            button4.Name = "button4";
+            button4.Size = new Size(75, 23);
+            button4.TabIndex = 1000020;
+            button4.Text = "Converse";
+            button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button4);
             Controls.Add(label7);
             Controls.Add(numericUpDown2);
             Controls.Add(checkBox2);
@@ -348,5 +360,6 @@
         private CheckBox checkBox2;
         private NumericUpDown numericUpDown2;
         private Label label7;
+        private Button button4;
     }
 }

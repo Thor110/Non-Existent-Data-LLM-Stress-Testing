@@ -1,6 +1,7 @@
 using System.Reflection;
 using System.Text;
 using System.Text.Json;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.TextBox;
 
 namespace Non_Existent_Data_LLM_Stress_Testing
 {
@@ -247,5 +248,17 @@ namespace Non_Existent_Data_LLM_Stress_Testing
         private void checkBox2_CheckedChanged(object sender, EventArgs e) { comboBox3.Enabled = checkBox2.Checked; comboBox3_SelectedIndexChanged(null!, null!); }
         // temperature numeric up down control
         private void numericUpDown2_ValueChanged(object sender, EventArgs e) { temperature = (float)numericUpDown2.Value; }
+        // converse
+        private void button4_Click(object sender, EventArgs e) { newForm(new Converse()); }
+        // create new form method
+        private void newForm(Form form)
+        {
+            form.StartPosition = FormStartPosition.Manual;
+            form.Location = this.Location;
+            form.Show();
+            this.Hide();
+            form.FormClosed += (s, args) => this.Show();
+            form.Move += (s, args) => { if (this.Location != form.Location) { this.Location = form.Location; } };
+        }
     }
 }
