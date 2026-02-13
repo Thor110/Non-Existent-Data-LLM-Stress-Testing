@@ -27,3 +27,17 @@ TL:DR Results are:
 - deepseek-r1:8b: Immediate failure upon the first test, inventing complex RPG systems for a stealth-action game.
 
 For more information, please review the full documents, I also encourage people to look through some of the results listed in the associated files, they are quite humorous at times.
+
+# Application
+
+Automation - for automating prompts to LLMs through Ollama.
+
+<div align="center">
+  <img src="images/automation.png" alt="Automation">
+</div>
+
+Converse - for simulating conversations between LLMs through Ollama.
+
+<div align="center">
+  <img src="images/converse.png" alt="Converse">
+</div>
