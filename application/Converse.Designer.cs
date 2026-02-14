@@ -39,7 +39,10 @@
             label3 = new Label();
             button2 = new Button();
             button3 = new Button();
+            label11 = new Label();
+            numericUpDown3 = new NumericUpDown();
             ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)numericUpDown3).BeginInit();
             SuspendLayout();
             // 
             // comboBox1
@@ -145,11 +148,34 @@
             button3.UseVisualStyleBackColor = true;
             button3.Click += button3_Click;
             // 
+            // label11
+            // 
+            label11.AutoSize = true;
+            label11.Location = new Point(609, 72);
+            label11.Name = "label11";
+            label11.Size = new Size(52, 15);
+            label11.TabIndex = 1000024;
+            label11.Text = "Context:";
+            // 
+            // numericUpDown3
+            // 
+            numericUpDown3.Increment = new decimal(new int[] { 1024, 0, 0, 0 });
+            numericUpDown3.Location = new Point(667, 70);
+            numericUpDown3.Maximum = new decimal(new int[] { 262144, 0, 0, 0 });
+            numericUpDown3.Minimum = new decimal(new int[] { 1024, 0, 0, 0 });
+            numericUpDown3.Name = "numericUpDown3";
+            numericUpDown3.Size = new Size(120, 23);
+            numericUpDown3.TabIndex = 1000023;
+            numericUpDown3.Value = new decimal(new int[] { 1024, 0, 0, 0 });
+            numericUpDown3.ValueChanged += numericUpDown3_ValueChanged;
+            // 
             // Converse
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(label11);
+            Controls.Add(numericUpDown3);
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(label3);
@@ -164,6 +190,7 @@
             Name = "Converse";
             Text = "Converse";
             ((System.ComponentModel.ISupportInitialize)numericUpDown1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numericUpDown3).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -181,5 +208,7 @@
         private Label label3;
         private Button button2;
         private Button button3;
+        private Label label11;
+        private NumericUpDown numericUpDown3;
     }
 }

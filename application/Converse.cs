@@ -10,6 +10,7 @@ namespace Non_Existent_Data_LLM_Stress_Testing
         private string SecondModelName = "";
         private string prompt = "";
         private int testCount = 10;
+        private int context = 1024;
         private int currentCount = 1;
         private float temperature = 0.7f;
         private bool stop = false;
@@ -47,7 +48,7 @@ namespace Non_Existent_Data_LLM_Stress_Testing
                     { "prompt", prompt },
                     { "stream", false },
                     { "keep_alive", -1 },
-                    { "options", new { temperature = temperature } }
+                    { "options", new { temperature = temperature, num_ctx = context } }
                 };
                 if (currentCount % 2 != 0) // thinking models
                 {
@@ -106,5 +107,7 @@ namespace Non_Existent_Data_LLM_Stress_Testing
             comboBox2.Enabled = false;
             await Main();
         }
+        // context tokens
+        private void numericUpDown3_ValueChanged(object sender, EventArgs e) { context = (int)numericUpDown3.Value; }
     }
 }

@@ -14,6 +14,7 @@ namespace Non_Existent_Data_LLM_Stress_Testing
         private string prompt = "";
         private string system = "";
         private int testCount = 100;
+        private int context = 1024;
         private float temperature = 0.7f;
         private bool stop = false;
         // Main() variables
@@ -90,7 +91,7 @@ namespace Non_Existent_Data_LLM_Stress_Testing
                     { "prompt", prompt },
                     { "stream", false },
                     { "keep_alive", -1 },
-                    { "options", new { temperature = temperature } }
+                    { "options", new { temperature = temperature, num_ctx = context } }
                 };
                 if (checkBox1.Checked) // append custom system prompt
                 {
@@ -260,5 +261,7 @@ namespace Non_Existent_Data_LLM_Stress_Testing
             form.FormClosed += (s, args) => this.Show();
             form.Move += (s, args) => { if (this.Location != form.Location) { this.Location = form.Location; } };
         }
+        // context tokens
+        private void numericUpDown3_ValueChanged(object sender, EventArgs e) { context = (int)numericUpDown3.Value; }
     }
 }

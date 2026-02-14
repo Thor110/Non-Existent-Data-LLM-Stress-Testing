@@ -53,8 +53,11 @@
             numericUpDown2 = new NumericUpDown();
             label7 = new Label();
             button4 = new Button();
+            numericUpDown3 = new NumericUpDown();
+            label11 = new Label();
             ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)numericUpDown2).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)numericUpDown3).BeginInit();
             SuspendLayout();
             // 
             // button1
@@ -296,11 +299,34 @@
             button4.UseVisualStyleBackColor = true;
             button4.Click += button4_Click;
             // 
+            // numericUpDown3
+            // 
+            numericUpDown3.Increment = new decimal(new int[] { 1024, 0, 0, 0 });
+            numericUpDown3.Location = new Point(668, 328);
+            numericUpDown3.Maximum = new decimal(new int[] { 262144, 0, 0, 0 });
+            numericUpDown3.Minimum = new decimal(new int[] { 1024, 0, 0, 0 });
+            numericUpDown3.Name = "numericUpDown3";
+            numericUpDown3.Size = new Size(120, 23);
+            numericUpDown3.TabIndex = 1000021;
+            numericUpDown3.Value = new decimal(new int[] { 1024, 0, 0, 0 });
+            numericUpDown3.ValueChanged += numericUpDown3_ValueChanged;
+            // 
+            // label11
+            // 
+            label11.AutoSize = true;
+            label11.Location = new Point(610, 330);
+            label11.Name = "label11";
+            label11.Size = new Size(52, 15);
+            label11.TabIndex = 1000022;
+            label11.Text = "Context:";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(label11);
+            Controls.Add(numericUpDown3);
             Controls.Add(button4);
             Controls.Add(label7);
             Controls.Add(numericUpDown2);
@@ -330,6 +356,7 @@
             Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)numericUpDown1).EndInit();
             ((System.ComponentModel.ISupportInitialize)numericUpDown2).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numericUpDown3).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -361,5 +388,7 @@
         private NumericUpDown numericUpDown2;
         private Label label7;
         private Button button4;
+        private NumericUpDown numericUpDown3;
+        private Label label11;
     }
 }
